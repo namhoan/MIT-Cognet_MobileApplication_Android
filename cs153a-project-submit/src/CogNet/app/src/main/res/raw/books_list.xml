@@ -1,0 +1,3641 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://cognet-staging2.mit.edu/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"> <channel> <title>Books</title>
+    <link>http://cognet-staging2.mit.edu/</link>
+    <atom:link rel="self" href="http://cognet-staging2.mit.edu/books-clone-list.xml" />
+    <item> <title>Language, Thought, and Reality</title>
+        <link>/book/language-thought-and-reality-0</link>
+        <author>Benjamin Lee Whorf</author>
+        <pubDate>1964-03-14 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Brainstorms</title>
+        <link>/book/brainstorms</link>
+        <author>Daniel C. Dennett</author>
+        <pubDate>1981-07-12 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Modularity of Mind</title>
+        <link>/book/modularity-of-mind</link>
+        <author>Jerry A. Fodor</author>
+        <pubDate>1983-04-05 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Language, Thought, and Other Biological Categories</title>
+        <link>/book/language-thought-and-other-biological-categories</link>
+        <author>Ruth Garrett Millikan</author>
+        <pubDate>1984-04-12 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Computation and Cognition</title>
+        <link>/book/computation-and-cognition</link>
+        <author>Zenon W. Pylyshyn</author>
+        <pubDate>1986-02-06 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Neurophilosophy</title>
+        <link>/book/neurophilosophy</link>
+        <author>Patricia Smith Churchland</author>
+        <pubDate>1986-04-28 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Logic as Grammar</title>
+        <link>/book/logic-grammar</link>
+        <author>Norbert Hornstein</author>
+        <pubDate>1986-08-27 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Scientific Discovery</title>
+        <link>/book/scientific-discovery</link>
+        <author>Patrick W. Langley, Gary Bradshaw, Herbert A. Simon, Jan M. Zytkow</author>
+        <pubDate>1987-03-27 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Scientific Discovery</title>
+        <link>/book/scientific-discovery</link>
+        <author>Patrick W. Langley, Gary Bradshaw, Herbert A. Simon, Jan M. Zytkow</author>
+        <pubDate>1987-03-27 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Scientific Discovery</title>
+        <link>/book/scientific-discovery</link>
+        <author>Patrick W. Langley, Gary Bradshaw, Herbert A. Simon, Jan M. Zytkow</author>
+        <pubDate>1987-03-27 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Scientific Discovery</title>
+        <link>/book/scientific-discovery</link>
+        <author>Patrick W. Langley, Gary Bradshaw, Herbert A. Simon, Jan M. Zytkow</author>
+        <pubDate>1987-03-27 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Parallel Distributed Processing</title>
+        <link>/book/parallel-distributed-processing</link>
+        <author>David E. Rumelhart, James L. McClelland, PDP Research Group</author>
+        <pubDate>1987-07-28 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Parallel Distributed Processing</title>
+        <link>/book/parallel-distributed-processing-0</link>
+        <author>James L. McClelland, David E. Rumelhart, PDP Research Group</author>
+        <pubDate>1987-07-28 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Parallel Distributed Processing</title>
+        <link>/book/parallel-distributed-processing-0</link>
+        <author>James L. McClelland, David E. Rumelhart, PDP Research Group</author>
+        <pubDate>1987-07-28 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Parallel Distributed Processing</title>
+        <link>/book/parallel-distributed-processing-0</link>
+        <author>James L. McClelland, David E. Rumelhart, PDP Research Group</author>
+        <pubDate>1987-07-28 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Parallel Distributed Processing</title>
+        <link>/book/parallel-distributed-processing</link>
+        <author>David E. Rumelhart, James L. McClelland, PDP Research Group</author>
+        <pubDate>1987-07-28 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Parallel Distributed Processing</title>
+        <link>/book/parallel-distributed-processing</link>
+        <author>David E. Rumelhart, James L. McClelland, PDP Research Group</author>
+        <pubDate>1987-07-28 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Matter and Consciousness</title>
+        <link>/book/matter-and-consciousness</link>
+        <author>Paul M. Churchland</author>
+        <pubDate>1988-01-21 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Induction</title>
+        <link>/book/induction</link>
+        <author>John H. Holland, Keith J. Holyoak, Richard E. Nisbett, Paul Thagard</author>
+        <pubDate>1989-03-02 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Induction</title>
+        <link>/book/induction</link>
+        <author>John H. Holland, Keith J. Holyoak, Richard E. Nisbett, Paul Thagard</author>
+        <pubDate>1989-03-02 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Induction</title>
+        <link>/book/induction</link>
+        <author>John H. Holland, Keith J. Holyoak, Richard E. Nisbett, Paul Thagard</author>
+        <pubDate>1989-03-02 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Induction</title>
+        <link>/book/induction</link>
+        <author>John H. Holland, Keith J. Holyoak, Richard E. Nisbett, Paul Thagard</author>
+        <pubDate>1989-03-02 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Psychosemantics</title>
+        <link>/book/psychosemantics</link>
+        <author>Jerry A. Fodor</author>
+        <pubDate>1989-09-06 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Explorations in Parallel Distributed Processing - Macintosh version</title>
+        <link>/book/explorations-parallel-distributed-processing-macintosh-version</link>
+        <author>James L. McClelland, David E. Rumelhart</author>
+        <pubDate>1989-10-12 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Explorations in Parallel Distributed Processing - Macintosh version</title>
+        <link>/book/explorations-parallel-distributed-processing-macintosh-version</link>
+        <author>James L. McClelland, David E. Rumelhart</author>
+        <pubDate>1989-10-12 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Theoretical Perspectives on Language Deficits</title>
+        <link>/book/theoretical-perspectives-language-deficits</link>
+        <author>Yosef Grodzinsky</author>
+        <pubDate>1990-02-26 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>What the Hands Reveal about the Brain</title>
+        <link>/book/what-hands-reveal-about-brain</link>
+        <author>Howard Poizner, Edward Klima, Ursula Bellugi</author>
+        <pubDate>1990-03-13 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>What the Hands Reveal about the Brain</title>
+        <link>/book/what-hands-reveal-about-brain</link>
+        <author>Howard Poizner, Edward Klima, Ursula Bellugi</author>
+        <pubDate>1990-03-13 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>What the Hands Reveal about the Brain</title>
+        <link>/book/what-hands-reveal-about-brain</link>
+        <author>Howard Poizner, Edward Klima, Ursula Bellugi</author>
+        <pubDate>1990-03-13 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>About Time</title>
+        <link>/book/about-time</link>
+        <author>William Friedman</author>
+        <pubDate>1990-09-01 12:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Metaphysics of Meaning</title>
+        <link>/book/metaphysics-of-meaning</link>
+        <author>Jerrold J. Katz</author>
+        <pubDate>1990-10-16 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Natural and the Normative</title>
+        <link>/book/natural-and-normative</link>
+        <author>Gary Hatfield</author>
+        <pubDate>1991-01-09 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Meaning and Mental Representation</title>
+        <link>/book/meaning-and-mental-representation</link>
+        <author>Robert Cummins</author>
+        <pubDate>1991-02-04 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Microcognition</title>
+        <link>/book/microcognition</link>
+        <author>Andy Clark</author>
+        <pubDate>1991-02-04 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Explaining Behavior</title>
+        <link>/book/explaining-behavior</link>
+        <author>Fred Dretske</author>
+        <pubDate>1991-02-04 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Science of the Mind</title>
+        <link>/book/science-of-mind</link>
+        <author>Owen Flanagan</author>
+        <pubDate>1991-03-04 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Categorization and Naming in Children</title>
+        <link>/book/categorization-and-naming-children</link>
+        <author>Ellen M Markman</author>
+        <pubDate>1991-05-01 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Representation and Reality</title>
+        <link>/book/representation-and-reality</link>
+        <author>Hilary Putnam</author>
+        <pubDate>1991-08-27 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Neural Network Learning and Expert Systems</title>
+        <link>/book/neural-network-learning-and-expert-systems</link>
+        <author>Stephen I. Gallant</author>
+        <pubDate>1991-10-16 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Unity of the Self</title>
+        <link>/book/unity-of-self</link>
+        <author>Stephen White</author>
+        <pubDate>1991-10-29 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Concepts, Kinds, and Cognitive Development</title>
+        <link>/book/concepts-kinds-and-cognitive-development</link>
+        <author>Frank C. Keil</author>
+        <pubDate>1992-01-29 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Morphology and Computation</title>
+        <link>/book/morphology-and-computation</link>
+        <author>Richard Sproat</author>
+        <pubDate>1992-04-14 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Symmetry, Causality, Mind</title>
+        <link>/book/symmetry-causality-mind</link>
+        <author>Michael Leyton</author>
+        <pubDate>1992-04-14 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>A Neurocomputational Perspective</title>
+        <link>/book/neurocomputational-perspective</link>
+        <author>Paul M. Churchland</author>
+        <pubDate>1992-04-21 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Adaptation in Natural and Artificial Systems</title>
+        <link>/book/adaptation-natural-and-artificial-systems</link>
+        <author>John H. Holland</author>
+        <pubDate>1992-04-28 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Computational Brain</title>
+        <link>/book/computational-brain</link>
+        <author>Patricia Smith Churchland, Terrence J. Sejnowski</author>
+        <pubDate>1992-06-11 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Computational Brain</title>
+        <link>/book/computational-brain</link>
+        <author>Patricia Smith Churchland, Terrence J. Sejnowski</author>
+        <pubDate>1992-06-11 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Rediscovery of the Mind</title>
+        <link>/book/rediscovery-of-mind</link>
+        <author>John R. Searle</author>
+        <pubDate>1992-07-07 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Naturally Intelligent Systems</title>
+        <link>/book/naturally-intelligent-systems</link>
+        <author>Charles Butler, Maureen Caudill</author>
+        <pubDate>1992-09-07 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Naturally Intelligent Systems</title>
+        <link>/book/naturally-intelligent-systems</link>
+        <author>Charles Butler, Maureen Caudill</author>
+        <pubDate>1992-09-07 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>A Theory of Content and Other Essays</title>
+        <link>/book/theory-of-content-and-other-essays</link>
+        <author>Jerry A. Fodor</author>
+        <pubDate>1992-10-07 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Child&amp;#039;s Theory of Mind</title>
+        <link>/book/childs-theory-of-mind</link>
+        <author>Henry M. Wellman</author>
+        <pubDate>1992-10-07 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Embodied Mind</title>
+        <link>/book/embodied-mind</link>
+        <author>Francisco J. Varela, Evan Thompson, Eleanor Rosch</author>
+        <pubDate>1992-11-12 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Embodied Mind</title>
+        <link>/book/embodied-mind</link>
+        <author>Francisco J. Varela, Evan Thompson, Eleanor Rosch</author>
+        <pubDate>1992-11-12 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Embodied Mind</title>
+        <link>/book/embodied-mind</link>
+        <author>Francisco J. Varela, Evan Thompson, Eleanor Rosch</author>
+        <pubDate>1992-11-12 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Understanding the Representational Mind</title>
+        <link>/book/understanding-representational-mind</link>
+        <author>Josef Perner</author>
+        <pubDate>1993-03-01 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Computational Philosophy of Science</title>
+        <link>/book/computational-philosophy-of-science</link>
+        <author>Paul Thagard</author>
+        <pubDate>1993-03-01 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Language, Music, and Mind</title>
+        <link>/book/language-music-and-mind</link>
+        <author>Diana Raffman</author>
+        <pubDate>1993-03-01 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Revision Theory of Truth</title>
+        <link>/book/revision-theory-of-truth</link>
+        <author>Anil Gupta, Nuel Belnap</author>
+        <pubDate>1993-03-17 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Revision Theory of Truth</title>
+        <link>/book/revision-theory-of-truth</link>
+        <author>Anil Gupta, Nuel Belnap</author>
+        <pubDate>1993-03-17 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Mechanisms of Implicit Learning</title>
+        <link>/book/mechanisms-of-implicit-learning</link>
+        <author>Axel Cleeremans</author>
+        <pubDate>1993-04-12 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Protocol Analysis</title>
+        <link>/book/protocol-analysis</link>
+        <author>K. Anders Ericsson, Herbert A. Simon</author>
+        <pubDate>1993-04-12 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Protocol Analysis</title>
+        <link>/book/protocol-analysis</link>
+        <author>K. Anders Ericsson, Herbert A. Simon</author>
+        <pubDate>1993-04-12 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>As Time Goes By</title>
+        <link>/book/time-goes</link>
+        <author>Norbert Hornstein</author>
+        <pubDate>1993-08-12 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Speaking</title>
+        <link>/book/speaking</link>
+        <author>Willem J. M. Levelt</author>
+        <pubDate>1993-08-25 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Associative Engines</title>
+        <link>/book/associative-engines</link>
+        <author>Andy Clark</author>
+        <pubDate>1993-09-20 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Intelligent Behavior in Animals and Robots</title>
+        <link>/book/intelligent-behavior-animals-and-robots</link>
+        <author>David Mcfarland, Tom Bösser</author>
+        <pubDate>1993-09-27 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Intelligent Behavior in Animals and Robots</title>
+        <link>/book/intelligent-behavior-animals-and-robots</link>
+        <author>David Mcfarland, Tom Bösser</author>
+        <pubDate>1993-09-27 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Development and Evolution</title>
+        <link>/book/development-and-evolution</link>
+        <author>Stanley Salthe</author>
+        <pubDate>1993-11-30 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Consciousness Reconsidered</title>
+        <link>/book/consciousness-reconsidered</link>
+        <author>Owen Flanagan</author>
+        <pubDate>1993-12-09 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Holes and Other Superficialities</title>
+        <link>/book/holes-and-other-superficialities</link>
+        <author>Roberto Casati, Achille C. Varzi</author>
+        <pubDate>1994-01-09 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Holes and Other Superficialities</title>
+        <link>/book/holes-and-other-superficialities</link>
+        <author>Roberto Casati, Achille C. Varzi</author>
+        <pubDate>1994-01-09 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Beginning to Read</title>
+        <link>/book/beginning-to-read</link>
+        <author>Marilyn Jager Adams</author>
+        <pubDate>1994-02-02 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>An Odyssey in Learning and Perception</title>
+        <link>/book/odyssey-learning-and-perception</link>
+        <author>Eleanor J. Gibson</author>
+        <pubDate>1994-02-02 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Psychology of Proof</title>
+        <link>/book/psychology-of-proof</link>
+        <author>Lance J. Rips</author>
+        <pubDate>1994-03-07 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Sexual Brain</title>
+        <link>/book/sexual-brain</link>
+        <author>Simon LeVay</author>
+        <pubDate>1994-07-24 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Schools for Thought</title>
+        <link>/book/schools-thought</link>
+        <author>John T. Bruer</author>
+        <pubDate>1994-08-21 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Auditory Scene Analysis</title>
+        <link>/book/auditory-scene-analysis</link>
+        <author>Albert S. Bregman</author>
+        <pubDate>1994-09-28 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Participating in Explanatory Dialogues</title>
+        <link>/book/participating-explanatory-dialogues</link>
+        <author>Johanna D. Moore</author>
+        <pubDate>1994-11-03 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Dialogues on Perception</title>
+        <link>/book/dialogues-perception</link>
+        <author>Bela Julesz</author>
+        <pubDate>1994-11-16 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Desire</title>
+        <link>/book/desire</link>
+        <author>George F. Schueler</author>
+        <pubDate>1995-02-05 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Cognition in the Wild</title>
+        <link>/book/cognition-wild</link>
+        <author>Edwin Hutchins</author>
+        <pubDate>1995-02-09 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Mindblindness</title>
+        <link>/book/mindblindness</link>
+        <author>Simon Baron-Cohen</author>
+        <pubDate>1995-02-23 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Theories of Truth</title>
+        <link>/book/theories-of-truth</link>
+        <author>Richard L. Kirkham</author>
+        <pubDate>1995-03-01 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Consciousness</title>
+        <link>/book/consciousness-0</link>
+        <author>William G. Lycan</author>
+        <pubDate>1995-03-01 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>What Is Cognitive Science?</title>
+        <link>/book/what-cognitive-science</link>
+        <author>Barbara Von Eckardt</author>
+        <pubDate>1995-03-01 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Realistic Spirit</title>
+        <link>/book/realistic-spirit</link>
+        <author>Cora Diamond</author>
+        <pubDate>1995-03-01 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>White Queen Psychology and Other Essays for Alice</title>
+        <link>/book/white-queen-psychology-and-other-essays-alice</link>
+        <author>Ruth Garrett Millikan</author>
+        <pubDate>1995-03-01 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>An Introduction to Neural Networks</title>
+        <link>/book/introduction-to-neural-networks</link>
+        <author>James A. Anderson</author>
+        <pubDate>1995-03-15 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Cognitive Science</title>
+        <link>/book/cognitive-science</link>
+        <author>Neil Stillings, Steven E. Weisler, Christopher H. Chase, Mark H. Feinstein, Jay L. Garfield, Edwina L. Rissland</author>
+        <pubDate>1995-03-16 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Cognitive Science</title>
+        <link>/book/cognitive-science</link>
+        <author>Neil Stillings, Steven E. Weisler, Christopher H. Chase, Mark H. Feinstein, Jay L. Garfield, Edwina L. Rissland</author>
+        <pubDate>1995-03-16 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Cognitive Science</title>
+        <link>/book/cognitive-science</link>
+        <author>Neil Stillings, Steven E. Weisler, Christopher H. Chase, Mark H. Feinstein, Jay L. Garfield, Edwina L. Rissland</author>
+        <pubDate>1995-03-16 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Cognitive Science</title>
+        <link>/book/cognitive-science</link>
+        <author>Neil Stillings, Steven E. Weisler, Christopher H. Chase, Mark H. Feinstein, Jay L. Garfield, Edwina L. Rissland</author>
+        <pubDate>1995-03-16 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Cognitive Science</title>
+        <link>/book/cognitive-science</link>
+        <author>Neil Stillings, Steven E. Weisler, Christopher H. Chase, Mark H. Feinstein, Jay L. Garfield, Edwina L. Rissland</author>
+        <pubDate>1995-03-16 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Cognitive Science</title>
+        <link>/book/cognitive-science</link>
+        <author>Neil Stillings, Steven E. Weisler, Christopher H. Chase, Mark H. Feinstein, Jay L. Garfield, Edwina L. Rissland</author>
+        <pubDate>1995-03-16 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Psychologists in Word and Image</title>
+        <link>/book/psychologists-word-and-image</link>
+        <author>Nicholas Wade</author>
+        <pubDate>1995-03-30 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Computer Contradictionary</title>
+        <link>/book/computer-contradictionary</link>
+        <author>Stan Kelly-Bootle</author>
+        <pubDate>1995-04-09 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Cognitive Carpentry</title>
+        <link>/book/cognitive-carpentry</link>
+        <author>John L. Pollock</author>
+        <pubDate>1995-05-03 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Elm and the Expert</title>
+        <link>/book/elm-and-expert</link>
+        <author>Jerry A. Fodor</author>
+        <pubDate>1995-08-27 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Past, Space, and Self</title>
+        <link>/book/past-space-and-self</link>
+        <author>John Campbell</author>
+        <pubDate>1995-08-27 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Knowledge of Meaning</title>
+        <link>/book/knowledge-of-meaning</link>
+        <author>Richard K. Larson, Gabriel M.A. Segal</author>
+        <pubDate>1995-09-22 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Knowledge of Meaning</title>
+        <link>/book/knowledge-of-meaning</link>
+        <author>Richard K. Larson, Gabriel M.A. Segal</author>
+        <pubDate>1995-09-22 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>A Study of Concepts</title>
+        <link>/book/study-of-concepts</link>
+        <author>Christopher Peacocke</author>
+        <pubDate>1995-09-24 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Freud&amp;#039;s Dream</title>
+        <link>/book/freuds-dream</link>
+        <author>Patricia Kitcher</author>
+        <pubDate>1995-09-24 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Languages of the Mind</title>
+        <link>/book/languages-of-mind</link>
+        <author>Ray S. Jackendoff</author>
+        <pubDate>1995-09-24 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Beyond Modularity</title>
+        <link>/book/beyond-modularity</link>
+        <author>Annette Karmiloff-Smith</author>
+        <pubDate>1995-09-24 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Designing Information Technology in the Postmodern Age</title>
+        <link>/book/designing-information-technology-postmodern-age</link>
+        <author>Richard Coyne</author>
+        <pubDate>1995-09-27 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Sketches of Thought</title>
+        <link>/book/sketches-of-thought</link>
+        <author>Vinod Goel</author>
+        <pubDate>1995-10-02 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Developmental Psychobiology</title>
+        <link>/book/developmental-psychobiology</link>
+        <author>George F. Michel, Celia L. Moore</author>
+        <pubDate>1995-10-15 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Developmental Psychobiology</title>
+        <link>/book/developmental-psychobiology</link>
+        <author>George F. Michel, Celia L. Moore</author>
+        <pubDate>1995-10-15 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Subtlety of Sameness</title>
+        <link>/book/subtlety-of-sameness</link>
+        <author>Robert M. French</author>
+        <pubDate>1995-10-24 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Psychology</title>
+        <link>/book/psychology</link>
+        <author>Gregory A. Kimble</author>
+        <pubDate>1995-11-20 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>A Final Accounting</title>
+        <link>/book/final-accounting</link>
+        <author>Edward Erwin</author>
+        <pubDate>1995-12-11 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Creative Cognition</title>
+        <link>/book/creative-cognition</link>
+        <author>Ronald A. Finke, Steven M. Smith, Thomas B. Ward</author>
+        <pubDate>1996-01-04 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Creative Cognition</title>
+        <link>/book/creative-cognition</link>
+        <author>Ronald A. Finke, Steven M. Smith, Thomas B. Ward</author>
+        <pubDate>1996-01-04 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Creative Cognition</title>
+        <link>/book/creative-cognition</link>
+        <author>Ronald A. Finke, Steven M. Smith, Thomas B. Ward</author>
+        <pubDate>1996-01-04 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Language</title>
+        <link>/book/language</link>
+        <author>David Caplan</author>
+        <pubDate>1996-01-04 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Mental Reality</title>
+        <link>/book/mental-reality</link>
+        <author>Galen Strawson</author>
+        <pubDate>1996-01-04 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Electric Words</title>
+        <link>/book/electric-words</link>
+        <author>Yorick A. Wilks, Brian M Slator, Louise Guthrie</author>
+        <pubDate>1996-01-22 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Representations, Targets, and Attitudes</title>
+        <link>/book/representations-targets-and-attitudes</link>
+        <author>Robert Cummins</author>
+        <pubDate>1996-01-22 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Electric Words</title>
+        <link>/book/electric-words</link>
+        <author>Yorick A. Wilks, Brian M Slator, Louise Guthrie</author>
+        <pubDate>1996-01-22 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Electric Words</title>
+        <link>/book/electric-words</link>
+        <author>Yorick A. Wilks, Brian M Slator, Louise Guthrie</author>
+        <pubDate>1996-01-22 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Origins of Grammar</title>
+        <link>/book/origins-of-grammar</link>
+        <author>Roberta M. Golinkoff, Kathy Hirsh-Pasek</author>
+        <pubDate>1996-01-28 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Origins of Grammar</title>
+        <link>/book/origins-of-grammar</link>
+        <author>Roberta M. Golinkoff, Kathy Hirsh-Pasek</author>
+        <pubDate>1996-01-28 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Mental Leaps</title>
+        <link>/book/mental-leaps</link>
+        <author>Keith J. Holyoak, Paul Thagard</author>
+        <pubDate>1996-01-30 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Mental Leaps</title>
+        <link>/book/mental-leaps</link>
+        <author>Keith J. Holyoak, Paul Thagard</author>
+        <pubDate>1996-01-30 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>A Dynamic Systems Approach to the Development of Cognition and Action</title>
+        <link>/book/dynamic-systems-approach-to-development-of-cognition-and-action</link>
+        <author>Linda B. Smith, Esther Thelen</author>
+        <pubDate>1996-01-30 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>A Dynamic Systems Approach to the Development of Cognition and Action</title>
+        <link>/book/dynamic-systems-approach-to-development-of-cognition-and-action</link>
+        <author>Linda B. Smith, Esther Thelen</author>
+        <pubDate>1996-01-30 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Syntactica</title>
+        <link>/book/syntactica</link>
+        <author>Richard K. Larson, David S. Warren, Juliana Freire de Lima e Silva, Konstantinos Sagonas</author>
+        <pubDate>1996-02-14 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Syntactica</title>
+        <link>/book/syntactica</link>
+        <author>Richard K. Larson, David S. Warren, Juliana Freire de Lima e Silva, Konstantinos Sagonas</author>
+        <pubDate>1996-02-14 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Syntactica</title>
+        <link>/book/syntactica</link>
+        <author>Richard K. Larson, David S. Warren, Juliana Freire de Lima e Silva, Konstantinos Sagonas</author>
+        <pubDate>1996-02-14 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Syntactica</title>
+        <link>/book/syntactica</link>
+        <author>Richard K. Larson, David S. Warren, Juliana Freire de Lima e Silva, Konstantinos Sagonas</author>
+        <pubDate>1996-02-14 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Closed World</title>
+        <link>/book/closed-world</link>
+        <author>Paul N. Edwards</author>
+        <pubDate>1996-04-07 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Connectionism and the Philosophy of Psychology</title>
+        <link>/book/connectionism-and-philosophy-of-psychology</link>
+        <author>Terence E. Horgan, John Tienson</author>
+        <pubDate>1996-05-16 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Connectionism and the Philosophy of Psychology</title>
+        <link>/book/connectionism-and-philosophy-of-psychology</link>
+        <author>Terence E. Horgan, John Tienson</author>
+        <pubDate>1996-05-16 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>A Generative Theory of Tonal Music</title>
+        <link>/book/generative-theory-of-tonal-music</link>
+        <author>Fred Lerdahl, Ray S. Jackendoff</author>
+        <pubDate>1996-06-02 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>A Generative Theory of Tonal Music</title>
+        <link>/book/generative-theory-of-tonal-music</link>
+        <author>Fred Lerdahl, Ray S. Jackendoff</author>
+        <pubDate>1996-06-02 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Darwinism Evolving</title>
+        <link>/book/darwinism-evolving</link>
+        <author>David J. Depew, Bruce H. Weber</author>
+        <pubDate>1996-06-02 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Darwinism Evolving</title>
+        <link>/book/darwinism-evolving</link>
+        <author>David J. Depew, Bruce H. Weber</author>
+        <pubDate>1996-06-02 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Trouble with Computers</title>
+        <link>/book/trouble-computers</link>
+        <author>Thomas K. Landauer</author>
+        <pubDate>1996-06-05 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Catching Ourselves in the Act</title>
+        <link>/book/catching-ourselves-act</link>
+        <author>Horst Hendriks-Jansen</author>
+        <pubDate>1996-06-05 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Theory and Evidence</title>
+        <link>/book/theory-and-evidence</link>
+        <author>Barbara Koslowski</author>
+        <pubDate>1996-06-30 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>High-Level Vision</title>
+        <link>/book/high-level-vision</link>
+        <author>Shimon Ullman</author>
+        <pubDate>1996-07-16 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Moths to the Flame</title>
+        <link>/book/moths-to-flame</link>
+        <author>Gregory J. E. Rawlins</author>
+        <pubDate>1996-07-31 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Engine of Reason, the Seat of the Soul</title>
+        <link>/book/engine-of-reason-seat-of-soul</link>
+        <author>Paul M. Churchland</author>
+        <pubDate>1996-07-31 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Image And Brain</title>
+        <link>/book/image-and-brain</link>
+        <author>Stephen M. Kosslyn</author>
+        <pubDate>1996-08-31 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Parallel Algorithms for Regular Architectures</title>
+        <link>/book/parallel-algorithms-regular-architectures</link>
+        <author>Russ Miller, Quentin Stout</author>
+        <pubDate>1996-08-31 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Parallel Algorithms for Regular Architectures</title>
+        <link>/book/parallel-algorithms-regular-architectures</link>
+        <author>Russ Miller, Quentin Stout</author>
+        <pubDate>1996-08-31 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Human Semantic Potential</title>
+        <link>/book/human-semantic-potential</link>
+        <author>Terry Regier</author>
+        <pubDate>1996-08-31 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Elements of Artificial Neural Networks</title>
+        <link>/book/elements-of-artificial-neural-networks</link>
+        <author>Kishan Mehrotra, Chilukuri Mohan, Sanjay Ranka</author>
+        <pubDate>1996-10-10 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Foundations of Neural Networks, Fuzzy Systems, and Knowledge Engineering</title>
+        <link>/book/foundations-of-neural-networks-fuzzy-systems-and-knowledge-engineering</link>
+        <author>Nikola Kasabov</author>
+        <pubDate>1996-10-10 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Elements of Artificial Neural Networks</title>
+        <link>/book/elements-of-artificial-neural-networks</link>
+        <author>Kishan Mehrotra, Chilukuri Mohan, Sanjay Ranka</author>
+        <pubDate>1996-10-10 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Elements of Artificial Neural Networks</title>
+        <link>/book/elements-of-artificial-neural-networks</link>
+        <author>Kishan Mehrotra, Chilukuri Mohan, Sanjay Ranka</author>
+        <pubDate>1996-10-10 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Coordinating Distributed Objects</title>
+        <link>/book/coordinating-distributed-objects</link>
+        <author>Svend Frolund</author>
+        <pubDate>1996-10-31 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Growing Artificial Societies</title>
+        <link>/book/growing-artificial-societies</link>
+        <author>Joshua M. Epstein, Robert L. Axtell</author>
+        <pubDate>1996-11-14 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Growing Artificial Societies</title>
+        <link>/book/growing-artificial-societies</link>
+        <author>Joshua M. Epstein, Robert L. Axtell</author>
+        <pubDate>1996-11-14 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>A Logical Journey</title>
+        <link>/book/logical-journey</link>
+        <author>Hao Wang</author>
+        <pubDate>1997-01-09 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Discovery of Spoken Language</title>
+        <link>/book/discovery-of-spoken-language</link>
+        <author>Peter W. Jusczyk</author>
+        <pubDate>1997-01-09 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Ten Problems of Consciousness</title>
+        <link>/book/ten-problems-of-consciousness</link>
+        <author>Michael Tye</author>
+        <pubDate>1997-01-09 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Computability and Complexity</title>
+        <link>/book/computability-and-complexity</link>
+        <author>Neil Deaton Jones</author>
+        <pubDate>1997-01-14 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Without Miracles</title>
+        <link>/book/without-miracles</link>
+        <author>Gary A. Cziko</author>
+        <pubDate>1997-02-06 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Computer Science Logo Style</title>
+        <link>/book/computer-science-logo-style</link>
+        <author>Brian Harvey</author>
+        <pubDate>1997-02-13 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Computer Science Logo Style</title>
+        <link>/book/computer-science-logo-style-0</link>
+        <author>Brian Harvey</author>
+        <pubDate>1997-02-13 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Computer Science Logo Style</title>
+        <link>/book/computer-science-logo-style-1</link>
+        <author>Brian Harvey</author>
+        <pubDate>1997-02-13 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Indirect Perception</title>
+        <link>/book/indirect-perception</link>
+        <author>Irvin Rock</author>
+        <pubDate>1997-03-06 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Exercises in Rethinking Innateness</title>
+        <link>/book/exercises-rethinking-innateness</link>
+        <author>Kim Plunkett, Jeffrey Elman</author>
+        <pubDate>1997-04-24 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Exercises in Rethinking Innateness</title>
+        <link>/book/exercises-rethinking-innateness</link>
+        <author>Kim Plunkett, Jeffrey Elman</author>
+        <pubDate>1997-04-24 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Evolution of Communication</title>
+        <link>/book/evolution-of-communication</link>
+        <author>Marc D. Hauser</author>
+        <pubDate>1997-05-26 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Queer Science</title>
+        <link>/book/queer-science</link>
+        <author>Simon LeVay</author>
+        <pubDate>1997-06-05 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Models of Bounded Rationality</title>
+        <link>/book/models-of-bounded-rationality</link>
+        <author>Herbert A. Simon</author>
+        <pubDate>1997-06-26 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Naturalizing The Mind</title>
+        <link>/book/naturalizing-mind</link>
+        <author>Fred Dretske</author>
+        <pubDate>1997-07-31 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Children with Specific Language Impairment</title>
+        <link>/book/children-specific-language-impairment</link>
+        <author>Laurence B. Leonard</author>
+        <pubDate>1997-09-04 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Affective Computing</title>
+        <link>/book/affective-computing</link>
+        <author>Rosalind W. Picard</author>
+        <pubDate>1997-09-18 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Species of Mind</title>
+        <link>/book/species-of-mind</link>
+        <author>Colin Allen, Marc Bekoff</author>
+        <pubDate>1997-10-09 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Species of Mind</title>
+        <link>/book/species-of-mind</link>
+        <author>Colin Allen, Marc Bekoff</author>
+        <pubDate>1997-10-09 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Psychology of Attention</title>
+        <link>/book/psychology-of-attention</link>
+        <author>Harold Pashler</author>
+        <pubDate>1997-10-09 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Two Sides of Perception</title>
+        <link>/book/two-sides-of-perception</link>
+        <author>Richard Ivry, Lynn C. Robertson</author>
+        <pubDate>1997-10-23 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Two Sides of Perception</title>
+        <link>/book/two-sides-of-perception</link>
+        <author>Richard Ivry, Lynn C. Robertson</author>
+        <pubDate>1997-10-23 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Robot Shaping</title>
+        <link>/book/robot-shaping</link>
+        <author>Marco Dorigo, Marco Colombetti</author>
+        <pubDate>1997-11-05 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Robot Shaping</title>
+        <link>/book/robot-shaping</link>
+        <author>Marco Dorigo, Marco Colombetti</author>
+        <pubDate>1997-11-05 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Type-Logical Semantics</title>
+        <link>/book/type-logical-semantics</link>
+        <author>Bob Carpenter</author>
+        <pubDate>1997-11-06 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Rethinking Innateness</title>
+        <link>/book/rethinking-innateness</link>
+        <author>Elizabeth Bates, Jeffrey Elman, Mark H. Johnson, Annette Karmiloff-Smith, Domenico Parisi, Kim Plunkett</author>
+        <pubDate>1997-11-27 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Rethinking Innateness</title>
+        <link>/book/rethinking-innateness</link>
+        <author>Elizabeth Bates, Jeffrey Elman, Mark H. Johnson, Annette Karmiloff-Smith, Domenico Parisi, Kim Plunkett</author>
+        <pubDate>1997-11-27 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Rethinking Innateness</title>
+        <link>/book/rethinking-innateness</link>
+        <author>Elizabeth Bates, Jeffrey Elman, Mark H. Johnson, Annette Karmiloff-Smith, Domenico Parisi, Kim Plunkett</author>
+        <pubDate>1997-11-27 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Rethinking Innateness</title>
+        <link>/book/rethinking-innateness</link>
+        <author>Elizabeth Bates, Jeffrey Elman, Mark H. Johnson, Annette Karmiloff-Smith, Domenico Parisi, Kim Plunkett</author>
+        <pubDate>1997-11-27 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Rethinking Innateness</title>
+        <link>/book/rethinking-innateness</link>
+        <author>Elizabeth Bates, Jeffrey Elman, Mark H. Johnson, Annette Karmiloff-Smith, Domenico Parisi, Kim Plunkett</author>
+        <pubDate>1997-11-27 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Rethinking Innateness</title>
+        <link>/book/rethinking-innateness</link>
+        <author>Elizabeth Bates, Jeffrey Elman, Mark H. Johnson, Annette Karmiloff-Smith, Domenico Parisi, Kim Plunkett</author>
+        <pubDate>1997-11-27 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Realistic Rationalism</title>
+        <link>/book/realistic-rationalism</link>
+        <author>Jerrold J. Katz</author>
+        <pubDate>1997-12-04 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Privacy on the Line</title>
+        <link>/book/privacy-line</link>
+        <author>Whitfield Diffie, Susan Landau</author>
+        <pubDate>1998-01-04 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Privacy on the Line</title>
+        <link>/book/privacy-line</link>
+        <author>Whitfield Diffie, Susan Landau</author>
+        <pubDate>1998-01-04 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Being There</title>
+        <link>/book/being-there</link>
+        <author>Andy Clark</author>
+        <pubDate>1998-01-08 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Politics of Denial</title>
+        <link>/book/politics-of-denial</link>
+        <author>Michael A. Milburn, Sheree D. Conrad</author>
+        <pubDate>1998-01-08 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Politics of Denial</title>
+        <link>/book/politics-of-denial</link>
+        <author>Michael A. Milburn, Sheree D. Conrad</author>
+        <pubDate>1998-01-08 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Generative Lexicon</title>
+        <link>/book/generative-lexicon</link>
+        <author>James Pustejovsky</author>
+        <pubDate>1998-01-08 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Mind as Motion</title>
+        <link>/book/mind-motion</link>
+        <author>Robert F. Port, Timothy van Gelder</author>
+        <pubDate>1998-01-08 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>On the Origin of Objects</title>
+        <link>/book/origin-of-objects</link>
+        <author>Brian Cantwell Smith</author>
+        <pubDate>1998-01-08 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Mind as Motion</title>
+        <link>/book/mind-motion</link>
+        <author>Robert F. Port, Timothy van Gelder</author>
+        <pubDate>1998-01-08 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Sources of Power</title>
+        <link>/book/sources-of-power</link>
+        <author>Gary Klein</author>
+        <pubDate>1998-01-15 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Modeling Bounded Rationality</title>
+        <link>/book/modeling-bounded-rationality</link>
+        <author>Ariel Rubinstein</author>
+        <pubDate>1998-01-23 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Brainchildren</title>
+        <link>/book/brainchildren</link>
+        <author>Daniel C. Dennett</author>
+        <pubDate>1998-01-29 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>An Introduction to Genetic Algorithms</title>
+        <link>/book/introduction-to-genetic-algorithms</link>
+        <author>Melanie Mitchell</author>
+        <pubDate>1998-02-05 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Cerebral Code</title>
+        <link>/book/cerebral-code</link>
+        <author>William H. Calvin</author>
+        <pubDate>1998-02-05 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Zen and the Brain</title>
+        <link>/book/zen-and-brain</link>
+        <author>James H. Austin</author>
+        <pubDate>1998-02-05 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Reinforcement Learning</title>
+        <link>/book/reinforcement-learning</link>
+        <author>Richard S. Sutton, Andrew G. Barto</author>
+        <pubDate>1998-02-28 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Reinforcement Learning</title>
+        <link>/book/reinforcement-learning</link>
+        <author>Richard S. Sutton, Andrew G. Barto</author>
+        <pubDate>1998-02-28 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Brain, Vision, Memory</title>
+        <link>/book/brain-vision-memory</link>
+        <author>Charles G. Gross</author>
+        <pubDate>1998-03-19 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Inattentional Blindness</title>
+        <link>/book/inattentional-blindness</link>
+        <author>Arien Mack, Irvin Rock</author>
+        <pubDate>1998-03-26 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Inattentional Blindness</title>
+        <link>/book/inattentional-blindness</link>
+        <author>Arien Mack, Irvin Rock</author>
+        <pubDate>1998-03-26 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>An Introduction to Fuzzy Sets</title>
+        <link>/book/introduction-to-fuzzy-sets</link>
+        <author>Witold Pedrycz, Fernando Gomide</author>
+        <pubDate>1998-04-09 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>An Introduction to Fuzzy Sets</title>
+        <link>/book/introduction-to-fuzzy-sets</link>
+        <author>Witold Pedrycz, Fernando Gomide</author>
+        <pubDate>1998-04-09 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Philosophical Computer</title>
+        <link>/book/philosophical-computer</link>
+        <author>Patrick Grim, Gary R. Mar, Paul St. Denis</author>
+        <pubDate>1998-04-30 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Philosophical Computer</title>
+        <link>/book/philosophical-computer</link>
+        <author>Patrick Grim, Gary R. Mar, Paul St. Denis</author>
+        <pubDate>1998-04-30 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Philosophical Computer</title>
+        <link>/book/philosophical-computer</link>
+        <author>Patrick Grim, Gary R. Mar, Paul St. Denis</author>
+        <pubDate>1998-04-30 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Behavior-Based Robotics</title>
+        <link>/book/behavior-based-robotics</link>
+        <author>Ronald C. Arkin</author>
+        <pubDate>1998-05-21 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Investigations in Universal Grammar</title>
+        <link>/book/investigations-universal-grammar</link>
+        <author>Stephen Crain, Rosalind Thornton</author>
+        <pubDate>1998-05-23 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Investigations in Universal Grammar</title>
+        <link>/book/investigations-universal-grammar</link>
+        <author>Stephen Crain, Rosalind Thornton</author>
+        <pubDate>1998-05-23 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>On the Contrary</title>
+        <link>/book/contrary</link>
+        <author>Paul M. Churchland, Patricia Smith Churchland</author>
+        <pubDate>1998-05-28 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>On the Contrary</title>
+        <link>/book/contrary</link>
+        <author>Paul M. Churchland, Patricia Smith Churchland</author>
+        <pubDate>1998-05-28 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Paradox of Self-Consciousness</title>
+        <link>/book/paradox-of-self-consciousness</link>
+        <author>José Luis Bermúdez</author>
+        <pubDate>1998-05-28 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Graphical Models for Machine Learning and Digital Communication</title>
+        <link>/book/graphical-models-machine-learning-and-digital-communication</link>
+        <author>Brendan J. Frey</author>
+        <pubDate>1998-06-25 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Slaves of the Machine</title>
+        <link>/book/slaves-of-machine</link>
+        <author>Gregory J. E. Rawlins</author>
+        <pubDate>1998-07-02 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Computational Beauty of Nature</title>
+        <link>/book/computational-beauty-of-nature</link>
+        <author>Gary William Flake</author>
+        <pubDate>1998-07-09 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Race in the Making</title>
+        <link>/book/race-making</link>
+        <author>Lawrence A. Hirschfeld</author>
+        <pubDate>1998-07-30 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Words, Thoughts, and Theories</title>
+        <link>/book/words-thoughts-and-theories</link>
+        <author>Alison Gopnik, Andrew N. Meltzoff</author>
+        <pubDate>1998-07-30 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Knowing Machines</title>
+        <link>/book/knowing-machines</link>
+        <author>Donald Mackenzie</author>
+        <pubDate>1998-07-30 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Words, Thoughts, and Theories</title>
+        <link>/book/words-thoughts-and-theories</link>
+        <author>Alison Gopnik, Andrew N. Meltzoff</author>
+        <pubDate>1998-07-30 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Cradle of Knowledge</title>
+        <link>/book/cradle-of-knowledge</link>
+        <author>Martha E. Arterberry, Philip J. Kellman</author>
+        <pubDate>1998-08-06 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Cradle of Knowledge</title>
+        <link>/book/cradle-of-knowledge</link>
+        <author>Martha E. Arterberry, Philip J. Kellman</author>
+        <pubDate>1998-08-06 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Dependencies of Objects</title>
+        <link>/book/dependencies-of-objects</link>
+        <author>Esther Torrego</author>
+        <pubDate>1998-08-21 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Rhyme and Reason</title>
+        <link>/book/rhyme-and-reason</link>
+        <author>Juan Uriagereka</author>
+        <pubDate>1998-10-22 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>On the Pragmatics of Communication</title>
+        <link>/book/pragmatics-of-communication</link>
+        <author>Thomas McCarthy, Suhrkamp Verlag</author>
+        <pubDate>1998-10-25 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>On the Pragmatics of Communication</title>
+        <link>/book/pragmatics-of-communication</link>
+        <author>Thomas McCarthy, Suhrkamp Verlag</author>
+        <pubDate>1998-10-25 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Noam Chomsky</title>
+        <link>/book/noam-chomsky</link>
+        <author>Robert F Barsky</author>
+        <pubDate>1998-10-30 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Language Form and Language Function</title>
+        <link>/book/language-form-and-language-function</link>
+        <author>Frederick J. Newmeyer</author>
+        <pubDate>1998-11-19 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Visual Space Perception</title>
+        <link>/book/visual-space-perception</link>
+        <author>Maurice Hershenson</author>
+        <pubDate>1998-11-19 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Darwinian Dominion</title>
+        <link>/book/darwinian-dominion</link>
+        <author>Lewis Petrinovich</author>
+        <pubDate>1998-11-25 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Truth in Context</title>
+        <link>/book/truth-context</link>
+        <author>Michael P. Lynch</author>
+        <pubDate>1998-12-21 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Three Investigations of Extraction</title>
+        <link>/book/three-investigations-of-extraction</link>
+        <author>Paul M. Postal</author>
+        <pubDate>1998-12-24 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Why So Slow?</title>
+        <link>/book/why-so-slow</link>
+        <author>Virginia Valian</author>
+        <pubDate>1999-01-06 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Acoustic Phonetics</title>
+        <link>/book/acoustic-phonetics</link>
+        <author>Kenneth N. Stevens</author>
+        <pubDate>1999-01-07 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Neuropeptides</title>
+        <link>/book/neuropeptides</link>
+        <author>Fleur L Strand</author>
+        <pubDate>1999-01-10 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Shape of Actions</title>
+        <link>/book/shape-of-actions</link>
+        <author>Harry M. Collins, Martin Kusch</author>
+        <pubDate>1999-01-21 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Shape of Actions</title>
+        <link>/book/shape-of-actions</link>
+        <author>Harry M. Collins, Martin Kusch</author>
+        <pubDate>1999-01-21 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>An Introduction to Natural Computation</title>
+        <link>/book/introduction-to-natural-computation</link>
+        <author>Dana H. Ballard</author>
+        <pubDate>1999-01-21 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Confessions of a Medicine Man</title>
+        <link>/book/confessions-of-medicine-man</link>
+        <author>Alfred I. Tauber</author>
+        <pubDate>1999-01-21 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Systems That Learn</title>
+        <link>/book/systems-learn</link>
+        <author>Sanjay Jain, Daniel N. Osherson, James S. Royer, Arun Sharma</author>
+        <pubDate>1999-02-11 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Systems That Learn</title>
+        <link>/book/systems-learn</link>
+        <author>Sanjay Jain, Daniel N. Osherson, James S. Royer, Arun Sharma</author>
+        <pubDate>1999-02-11 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Systems That Learn</title>
+        <link>/book/systems-learn</link>
+        <author>Sanjay Jain, Daniel N. Osherson, James S. Royer, Arun Sharma</author>
+        <pubDate>1999-02-11 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Systems That Learn</title>
+        <link>/book/systems-learn</link>
+        <author>Sanjay Jain, Daniel N. Osherson, James S. Royer, Arun Sharma</author>
+        <pubDate>1999-02-11 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>About Face</title>
+        <link>/book/about-face</link>
+        <author>Jonathan Cole</author>
+        <pubDate>1999-02-18 00:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>A Prosodic Model of Sign Language Phonology</title>
+        <link>/book/prosodic-model-of-sign-language-phonology</link>
+        <author>Diane Brentari</author>
+        <pubDate>1999-03-04 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Mind within the Net</title>
+        <link>/book/mind-within-net</link>
+        <author>Manfred Spitzer</author>
+        <pubDate>1999-03-11 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Neural Smithing</title>
+        <link>/book/neural-smithing</link>
+        <author>Russell Reed, Robert J Marks</author>
+        <pubDate>1999-03-25 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Neural Smithing</title>
+        <link>/book/neural-smithing</link>
+        <author>Russell Reed, Robert J Marks</author>
+        <pubDate>1999-03-25 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Representation and Recognition in Vision</title>
+        <link>/book/representation-and-recognition-vision</link>
+        <author>Shimon Edelman</author>
+        <pubDate>1999-05-20 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Fast Oscillations in Cortical Circuits</title>
+        <link>/book/fast-oscillations-cortical-circuits</link>
+        <author>Roger D. Traub, John G. R. Jefferys, Miles A. Whittington</author>
+        <pubDate>1999-06-10 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Fast Oscillations in Cortical Circuits</title>
+        <link>/book/fast-oscillations-cortical-circuits</link>
+        <author>Roger D. Traub, John G. R. Jefferys, Miles A. Whittington</author>
+        <pubDate>1999-06-10 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Fast Oscillations in Cortical Circuits</title>
+        <link>/book/fast-oscillations-cortical-circuits</link>
+        <author>Roger D. Traub, John G. R. Jefferys, Miles A. Whittington</author>
+        <pubDate>1999-06-10 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Foundations of Statistical Natural Language Processing</title>
+        <link>/book/foundations-of-statistical-natural-language-processing</link>
+        <author>Christopher Manning, Hinrich Schuetze</author>
+        <pubDate>1999-06-17 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Foundations of Statistical Natural Language Processing</title>
+        <link>/book/foundations-of-statistical-natural-language-processing</link>
+        <author>Christopher Manning, Hinrich Schuetze</author>
+        <pubDate>1999-06-17 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Cambrian Intelligence</title>
+        <link>/book/cambrian-intelligence</link>
+        <author>Rodney A. Brooks</author>
+        <pubDate>1999-07-01 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Social Cognition</title>
+        <link>/book/social-cognition</link>
+        <author>Ziva Kunda</author>
+        <pubDate>1999-07-08 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Parts and Places</title>
+        <link>/book/parts-and-places</link>
+        <author>Roberto Casati, Achille C. Varzi</author>
+        <pubDate>1999-07-15 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Parts and Places</title>
+        <link>/book/parts-and-places</link>
+        <author>Roberto Casati, Achille C. Varzi</author>
+        <pubDate>1999-07-15 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Beyond the Cognitive Map</title>
+        <link>/book/beyond-cognitive-map</link>
+        <author>A. David Redish</author>
+        <pubDate>1999-07-15 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Simple Genetic Algorithm</title>
+        <link>/book/simple-genetic-algorithm</link>
+        <author>Michael D. Vose</author>
+        <pubDate>1999-08-26 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Principle B, VP Ellipsis, and Interpretation in Child Grammar</title>
+        <link>/book/principle-b-vp-ellipsis-and-interpretation-child-grammar</link>
+        <author>Rosalind Thornton, Kenneth Wexler</author>
+        <pubDate>1999-09-16 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Principle B, VP Ellipsis, and Interpretation in Child Grammar</title>
+        <link>/book/principle-b-vp-ellipsis-and-interpretation-child-grammar</link>
+        <author>Rosalind Thornton, Kenneth Wexler</author>
+        <pubDate>1999-09-16 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Visual Analogy</title>
+        <link>/book/visual-analogy</link>
+        <author>Barbara Maria Stafford</author>
+        <pubDate>1999-09-23 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Through the Rearview Mirror</title>
+        <link>/book/through-rearview-mirror</link>
+        <author>John Macnamara</author>
+        <pubDate>1999-09-23 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Theory of Language</title>
+        <link>/book/theory-of-language</link>
+        <author>Steven E. Weisler, Slavoljub Milekic</author>
+        <pubDate>1999-10-21 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Theory of Language</title>
+        <link>/book/theory-of-language</link>
+        <author>Steven E. Weisler, Slavoljub Milekic</author>
+        <pubDate>1999-10-21 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Semantics, Tense, and Time</title>
+        <link>/book/semantics-tense-and-time</link>
+        <author>Peter Ludlow</author>
+        <pubDate>1999-10-28 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Dreaming as Delirium</title>
+        <link>/book/dreaming-delirium</link>
+        <author>J. Allan Hobson</author>
+        <pubDate>1999-11-11 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Neural Transplantation</title>
+        <link>/book/neural-transplantation</link>
+        <author>William J. Freed</author>
+        <pubDate>1999-12-30 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Suspensions of Perception</title>
+        <link>/book/suspensions-of-perception</link>
+        <author>Jonathan Crary</author>
+        <pubDate>2000-01-13 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Mind in a Physical World</title>
+        <link>/book/mind-physical-world</link>
+        <author>Jaegwon Kim</author>
+        <pubDate>2000-01-26 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>In Critical Condition</title>
+        <link>/book/critical-condition</link>
+        <author>Jerry A. Fodor</author>
+        <pubDate>2000-01-26 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Syntactic Structures Revisited</title>
+        <link>/book/syntactic-structures-revisited</link>
+        <author>Howard Lasnik</author>
+        <pubDate>2000-01-27 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Tower of Babel</title>
+        <link>/book/tower-of-babel</link>
+        <author>Robert T. Pennock</author>
+        <pubDate>2000-02-27 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Conceptual Spaces</title>
+        <link>/book/conceptual-spaces</link>
+        <author>Peter Gärdenfors</author>
+        <pubDate>2000-03-19 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Presumptive Meanings</title>
+        <link>/book/presumptive-meanings</link>
+        <author>Stephen C. Levinson</author>
+        <pubDate>2000-04-23 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Learnability in Optimality Theory</title>
+        <link>/book/learnability-optimality-theory</link>
+        <author>Bruce Tesar, Paul Smolensky</author>
+        <pubDate>2000-05-14 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Learnability in Optimality Theory</title>
+        <link>/book/learnability-optimality-theory</link>
+        <author>Bruce Tesar, Paul Smolensky</author>
+        <pubDate>2000-05-14 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Things We Do</title>
+        <link>/book/things-we-do</link>
+        <author>Gary A. Cziko</author>
+        <pubDate>2000-05-14 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Hot Brain</title>
+        <link>/book/hot-brain</link>
+        <author>Carl V Gisolfi, Francisco Mora Teruel</author>
+        <pubDate>2000-06-08 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Hot Brain</title>
+        <link>/book/hot-brain</link>
+        <author>Carl V Gisolfi, Francisco Mora Teruel</author>
+        <pubDate>2000-06-08 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>A Slim Book about Narrow Content</title>
+        <link>/book/slim-book-about-narrow-content</link>
+        <author>Gabriel M.A. Segal</author>
+        <pubDate>2000-06-11 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Heterogeneous Agent Systems</title>
+        <link>/book/heterogeneous-agent-systems</link>
+        <author>V S. Subrahmanian, Piero Andrea Bonatti, Jürgen Dix, Thomas Robert Eiter, Sarit Kraus, Fatma Ozcan, Robert B. Ross</author>
+        <pubDate>2000-06-27 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Heterogeneous Agent Systems</title>
+        <link>/book/heterogeneous-agent-systems</link>
+        <author>V S. Subrahmanian, Piero Andrea Bonatti, Jürgen Dix, Thomas Robert Eiter, Sarit Kraus, Fatma Ozcan, Robert B. Ross</author>
+        <pubDate>2000-06-27 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Heterogeneous Agent Systems</title>
+        <link>/book/heterogeneous-agent-systems</link>
+        <author>V S. Subrahmanian, Piero Andrea Bonatti, Jürgen Dix, Thomas Robert Eiter, Sarit Kraus, Fatma Ozcan, Robert B. Ross</author>
+        <pubDate>2000-06-27 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Heterogeneous Agent Systems</title>
+        <link>/book/heterogeneous-agent-systems</link>
+        <author>V S. Subrahmanian, Piero Andrea Bonatti, Jürgen Dix, Thomas Robert Eiter, Sarit Kraus, Fatma Ozcan, Robert B. Ross</author>
+        <pubDate>2000-06-27 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Heterogeneous Agent Systems</title>
+        <link>/book/heterogeneous-agent-systems</link>
+        <author>V S. Subrahmanian, Piero Andrea Bonatti, Jürgen Dix, Thomas Robert Eiter, Sarit Kraus, Fatma Ozcan, Robert B. Ross</author>
+        <pubDate>2000-06-27 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Heterogeneous Agent Systems</title>
+        <link>/book/heterogeneous-agent-systems</link>
+        <author>V S. Subrahmanian, Piero Andrea Bonatti, Jürgen Dix, Thomas Robert Eiter, Sarit Kraus, Fatma Ozcan, Robert B. Ross</author>
+        <pubDate>2000-06-27 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Heterogeneous Agent Systems</title>
+        <link>/book/heterogeneous-agent-systems</link>
+        <author>V S. Subrahmanian, Piero Andrea Bonatti, Jürgen Dix, Thomas Robert Eiter, Sarit Kraus, Fatma Ozcan, Robert B. Ross</author>
+        <pubDate>2000-06-27 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Evolution and Human Behavior</title>
+        <link>/book/evolution-and-human-behavior</link>
+        <author>John Cartwright</author>
+        <pubDate>2000-07-23 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Strong Feelings</title>
+        <link>/book/strong-feelings</link>
+        <author>Jon Elster</author>
+        <pubDate>2000-07-30 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Sex and Cognition</title>
+        <link>/book/sex-and-cognition</link>
+        <author>Doreen Kimura</author>
+        <pubDate>2000-07-30 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Computational Molecular Biology</title>
+        <link>/book/computational-molecular-biology</link>
+        <author>Pavel A. Pevzner</author>
+        <pubDate>2000-08-20 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Oratio Obliqua, Oratio Recta</title>
+        <link>/book/oratio-obliqua-oratio-recta</link>
+        <author>Francois Recanati</author>
+        <pubDate>2000-08-27 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Sorting Things Out</title>
+        <link>/book/sorting-things-out</link>
+        <author>Geoffrey C. Bowker, Susan Leigh Star</author>
+        <pubDate>2000-08-27 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Sorting Things Out</title>
+        <link>/book/sorting-things-out</link>
+        <author>Geoffrey C. Bowker, Susan Leigh Star</author>
+        <pubDate>2000-08-27 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Computational Explorations in Cognitive Neuroscience</title>
+        <link>/book/computational-explorations-cognitive-neuroscience</link>
+        <author>Randall C. O&amp;#039;Reilly, Yuko Munakata</author>
+        <pubDate>2000-09-03 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Computational Explorations in Cognitive Neuroscience</title>
+        <link>/book/computational-explorations-cognitive-neuroscience</link>
+        <author>Randall C. O&amp;#039;Reilly, Yuko Munakata</author>
+        <pubDate>2000-09-03 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>What Counts</title>
+        <link>/book/what-counts</link>
+        <author>Elena Herburger</author>
+        <pubDate>2000-10-15 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Phrasal Movement and Its Kin</title>
+        <link>/book/phrasal-movement-and-its-kin</link>
+        <author>David Pesetsky</author>
+        <pubDate>2000-10-15 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Computational Vision</title>
+        <link>/book/computational-vision</link>
+        <author>Hanspeter A. Mallot</author>
+        <pubDate>2000-10-15 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Control of Cognitive Processes</title>
+        <link>/book/control-of-cognitive-processes</link>
+        <author>Stephen Monsell, Jon Driver</author>
+        <pubDate>2000-10-19 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Control of Cognitive Processes</title>
+        <link>/book/control-of-cognitive-processes</link>
+        <author>Stephen Monsell, Jon Driver</author>
+        <pubDate>2000-10-19 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Theory and Practice of Discourse Parsing and Summarization</title>
+        <link>/book/theory-and-practice-of-discourse-parsing-and-summarization</link>
+        <author>Daniel Marcu</author>
+        <pubDate>2000-11-12 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Verbal Complexes</title>
+        <link>/book/verbal-complexes</link>
+        <author>Hilda Koopman, Anna Szabolcsi</author>
+        <pubDate>2000-11-12 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Metaphor in Context</title>
+        <link>/book/metaphor-context</link>
+        <author>Josef Stern</author>
+        <pubDate>2000-11-12 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Verbal Complexes</title>
+        <link>/book/verbal-complexes</link>
+        <author>Hilda Koopman, Anna Szabolcsi</author>
+        <pubDate>2000-11-12 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Roots of Social Sensibility and Neural Function</title>
+        <link>/book/roots-of-social-sensibility-and-neural-function</link>
+        <author>Jay Schulkin</author>
+        <pubDate>2000-11-12 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Music and Memory</title>
+        <link>/book/music-and-memory</link>
+        <author>Robert Snyder</author>
+        <pubDate>2001-01-07 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Causation, Prediction, and Search</title>
+        <link>/book/causation-prediction-and-search</link>
+        <author>Peter Spirtes, Clark Glymour, Richard Scheines</author>
+        <pubDate>2001-01-07 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Causation, Prediction, and Search</title>
+        <link>/book/causation-prediction-and-search</link>
+        <author>Peter Spirtes, Clark Glymour, Richard Scheines</author>
+        <pubDate>2001-01-07 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Causation, Prediction, and Search</title>
+        <link>/book/causation-prediction-and-search</link>
+        <author>Peter Spirtes, Clark Glymour, Richard Scheines</author>
+        <pubDate>2001-01-07 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Representation and Behavior</title>
+        <link>/book/representation-and-behavior</link>
+        <author>Fred Keijzer</author>
+        <pubDate>2001-01-21 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Logic Primer</title>
+        <link>/book/logic-primer</link>
+        <author>Colin Allen, Michael Hand</author>
+        <pubDate>2001-02-04 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Logic Primer</title>
+        <link>/book/logic-primer</link>
+        <author>Colin Allen, Michael Hand</author>
+        <pubDate>2001-02-04 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>How Language Comes to Children</title>
+        <link>/book/how-language-comes-to-children</link>
+        <author>Bénédicte de Boysson-Bardies</author>
+        <pubDate>2001-02-18 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Paradox of Sleep</title>
+        <link>/book/paradox-of-sleep</link>
+        <author>Michel Jouvet</author>
+        <pubDate>2001-02-18 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Sensory Exotica</title>
+        <link>/book/sensory-exotica</link>
+        <author>Howard C. Hughes</author>
+        <pubDate>2001-02-18 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Logic of Knowledge Bases</title>
+        <link>/book/logic-of-knowledge-bases</link>
+        <author>Hector J. Levesque, Gerhard Lakemeyer</author>
+        <pubDate>2001-02-18 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Logic of Knowledge Bases</title>
+        <link>/book/logic-of-knowledge-bases</link>
+        <author>Hector J. Levesque, Gerhard Lakemeyer</author>
+        <pubDate>2001-02-18 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Human Relationship with Nature</title>
+        <link>/book/human-relationship-nature</link>
+        <author>Peter H. Kahn</author>
+        <pubDate>2001-02-28 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Learning and Soft Computing</title>
+        <link>/book/learning-and-soft-computing</link>
+        <author>Vojislav Kecman</author>
+        <pubDate>2001-03-18 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Complex Demonstratives</title>
+        <link>/book/complex-demonstratives</link>
+        <author>Jeffrey C. King</author>
+        <pubDate>2001-04-01 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Mind in Everyday Life and Cognitive Science</title>
+        <link>/book/mind-everyday-life-and-cognitive-science</link>
+        <author>Sunny Y. Auyang</author>
+        <pubDate>2001-04-01 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Neurophilosophy of Free Will</title>
+        <link>/book/neurophilosophy-of-free-will</link>
+        <author>Henrik Walter</author>
+        <pubDate>2001-04-15 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>A Natural History of Rape</title>
+        <link>/book/natural-history-of-rape</link>
+        <author>Randy Thornhill, Craig T. Palmer</author>
+        <pubDate>2001-04-30 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>A Natural History of Rape</title>
+        <link>/book/natural-history-of-rape</link>
+        <author>Randy Thornhill, Craig T. Palmer</author>
+        <pubDate>2001-04-30 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Adaptive Dynamics</title>
+        <link>/book/adaptive-dynamics</link>
+        <author>John E. R. Staddon</author>
+        <pubDate>2001-05-13 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Sentence Comprehension</title>
+        <link>/book/sentence-comprehension</link>
+        <author>David Townsend, Thomas G. Bever</author>
+        <pubDate>2001-05-27 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Sentence Comprehension</title>
+        <link>/book/sentence-comprehension</link>
+        <author>David Townsend, Thomas G. Bever</author>
+        <pubDate>2001-05-27 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Methods of Theoretical Psychology</title>
+        <link>/book/methods-of-theoretical-psychology</link>
+        <author>André Kukla</author>
+        <pubDate>2001-06-17 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Principles of Data Mining</title>
+        <link>/book/principles-of-data-mining</link>
+        <author>David J. Hand, Heikki Mannila, Padhraic Smyth</author>
+        <pubDate>2001-07-31 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Bioinformatics</title>
+        <link>/book/bioinformatics</link>
+        <author>Pierre Baldi, Søren Brunak</author>
+        <pubDate>2001-07-31 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Bioinformatics</title>
+        <link>/book/bioinformatics</link>
+        <author>Pierre Baldi, Søren Brunak</author>
+        <pubDate>2001-07-31 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Qualitative Methods for Reasoning under Uncertainty</title>
+        <link>/book/qualitative-methods-reasoning-under-uncertainty</link>
+        <author>Simon Parsons</author>
+        <pubDate>2001-07-31 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Mechanics of Robotic Manipulation</title>
+        <link>/book/mechanics-of-robotic-manipulation</link>
+        <author>Matthew T. Mason</author>
+        <pubDate>2001-07-31 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Gateway to Memory</title>
+        <link>/book/gateway-to-memory</link>
+        <author>Mark A. Gluck, Catherine E. Myers</author>
+        <pubDate>2001-07-31 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Gateway to Memory</title>
+        <link>/book/gateway-to-memory</link>
+        <author>Mark A. Gluck, Catherine E. Myers</author>
+        <pubDate>2001-07-31 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Principles of Data Mining</title>
+        <link>/book/principles-of-data-mining</link>
+        <author>David J. Hand, Heikki Mannila, Padhraic Smyth</author>
+        <pubDate>2001-07-31 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Principles of Data Mining</title>
+        <link>/book/principles-of-data-mining</link>
+        <author>David J. Hand, Heikki Mannila, Padhraic Smyth</author>
+        <pubDate>2001-07-31 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Knowledge and Mind</title>
+        <link>/book/knowledge-and-mind</link>
+        <author>Andrew Brook, Robert J. Stainton</author>
+        <pubDate>2001-08-31 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Mind Doesn&amp;#039;t Work That Way</title>
+        <link>/book/mind-doesnt-work-way</link>
+        <author>Jerry A. Fodor</author>
+        <pubDate>2001-08-31 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Linguistics</title>
+        <link>/book/linguistics</link>
+        <author>Adrian Akmajian, Richard A. Demers, Ann K. Farmer, Robert M. Harnish</author>
+        <pubDate>2001-08-31 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Accessing and Browsing Information and Communication</title>
+        <link>/book/accessing-and-browsing-information-and-communication</link>
+        <author>Ronald E. Rice, Maureen McCreadie, Shan-Ju L. Chang</author>
+        <pubDate>2001-08-31 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Linguistics</title>
+        <link>/book/linguistics</link>
+        <author>Adrian Akmajian, Richard A. Demers, Ann K. Farmer, Robert M. Harnish</author>
+        <pubDate>2001-08-31 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Accessing and Browsing Information and Communication</title>
+        <link>/book/accessing-and-browsing-information-and-communication</link>
+        <author>Ronald E. Rice, Maureen McCreadie, Shan-Ju L. Chang</author>
+        <pubDate>2001-08-31 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Linguistics</title>
+        <link>/book/linguistics</link>
+        <author>Adrian Akmajian, Richard A. Demers, Ann K. Farmer, Robert M. Harnish</author>
+        <pubDate>2001-08-31 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Knowledge in Action</title>
+        <link>/book/knowledge-action</link>
+        <author>Raymond Reiter</author>
+        <pubDate>2001-08-31 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Accessing and Browsing Information and Communication</title>
+        <link>/book/accessing-and-browsing-information-and-communication</link>
+        <author>Ronald E. Rice, Maureen McCreadie, Shan-Ju L. Chang</author>
+        <pubDate>2001-08-31 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Linguistics</title>
+        <link>/book/linguistics</link>
+        <author>Adrian Akmajian, Richard A. Demers, Ann K. Farmer, Robert M. Harnish</author>
+        <pubDate>2001-08-31 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Strategic Negotiation in Multiagent Environments</title>
+        <link>/book/strategic-negotiation-multiagent-environments</link>
+        <author>Sarit Kraus</author>
+        <pubDate>2001-08-31 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Myth of Pain</title>
+        <link>/book/myth-of-pain</link>
+        <author>Valerie Gray Hardcastle</author>
+        <pubDate>2001-08-31 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Understanding Intelligence</title>
+        <link>/book/understanding-intelligence</link>
+        <author>Rolf Pfeifer, Christian Scheier</author>
+        <pubDate>2001-08-31 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Syntactic Process</title>
+        <link>/book/syntactic-process</link>
+        <author>Mark Steedman</author>
+        <pubDate>2001-08-31 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Knowledge and Mind</title>
+        <link>/book/knowledge-and-mind</link>
+        <author>Andrew Brook, Robert J. Stainton</author>
+        <pubDate>2001-08-31 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Understanding Intelligence</title>
+        <link>/book/understanding-intelligence</link>
+        <author>Rolf Pfeifer, Christian Scheier</author>
+        <pubDate>2001-08-31 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Lingua ex Machina</title>
+        <link>/book/lingua-ex-machina</link>
+        <author>William H. Calvin, Derek Bickerton</author>
+        <pubDate>2001-09-30 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Intact and Sliced Brain</title>
+        <link>/book/intact-and-sliced-brain</link>
+        <author>Mircea Steriade</author>
+        <pubDate>2001-09-30 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Changing Minds</title>
+        <link>/book/changing-minds</link>
+        <author>Andrea diSessa</author>
+        <pubDate>2001-09-30 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Race for Consciousness</title>
+        <link>/book/race-consciousness</link>
+        <author>John G. Taylor</author>
+        <pubDate>2001-09-30 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Subtlety of Emotions</title>
+        <link>/book/subtlety-of-emotions</link>
+        <author>Aaron Ben-Ze&amp;#039;ev</author>
+        <pubDate>2001-09-30 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Mind and Mechanism</title>
+        <link>/book/mind-and-mechanism</link>
+        <author>Drew V. McDermott</author>
+        <pubDate>2001-09-30 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Lingua ex Machina</title>
+        <link>/book/lingua-ex-machina</link>
+        <author>William H. Calvin, Derek Bickerton</author>
+        <pubDate>2001-09-30 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Mind&amp;#039;s Arrows</title>
+        <link>/book/minds-arrows</link>
+        <author>Clark Glymour</author>
+        <pubDate>2001-10-31 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Dynamical Cognitive Science</title>
+        <link>/book/dynamical-cognitive-science</link>
+        <author>Lawrence M. Ward</author>
+        <pubDate>2001-11-30 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Crisis on Campus</title>
+        <link>/book/crisis-campus</link>
+        <author>Wilfried Decoo</author>
+        <pubDate>2001-12-31 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Dynamics in Action</title>
+        <link>/book/dynamics-action</link>
+        <author>Alicia Juarrero</author>
+        <pubDate>2002-02-06 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Languages of Edison&amp;#039;s Light</title>
+        <link>/book/languages-of-edisons-light</link>
+        <author>Charles Bazerman</author>
+        <pubDate>2002-02-06 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Consciousness, Color, and Content</title>
+        <link>/book/consciousness-color-and-content</link>
+        <author>Michael Tye</author>
+        <pubDate>2002-02-06 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Truth from Trash</title>
+        <link>/book/truth-trash</link>
+        <author>Christopher J. Thornton</author>
+        <pubDate>2002-02-06 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Exploring Science</title>
+        <link>/book/exploring-science</link>
+        <author>David Klahr</author>
+        <pubDate>2002-02-06 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>How Children Learn the Meanings of Words</title>
+        <link>/book/how-children-learn-meanings-of-words</link>
+        <author>Paul Bloom</author>
+        <pubDate>2002-03-06 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>I of the Vortex</title>
+        <link>/book/i-of-vortex</link>
+        <author>Rodolfo R. Llinás</author>
+        <pubDate>2002-03-06 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Iconic Logic of Peirce&amp;#039;s Graphs</title>
+        <link>/book/iconic-logic-of-peirces-graphs</link>
+        <author>Sun-Joo Shin</author>
+        <pubDate>2002-04-30 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Dynamic Neuron</title>
+        <link>/book/dynamic-neuron</link>
+        <author>John Smythies</author>
+        <pubDate>2002-05-31 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Linguistic Turn in Hermeneutic Philosophy</title>
+        <link>/book/linguistic-turn-hermeneutic-philosophy</link>
+        <author>Cristina Lafont</author>
+        <pubDate>2002-08-06 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Coherence in Thought and Action</title>
+        <link>/book/coherence-thought-and-action</link>
+        <author>Paul Thagard</author>
+        <pubDate>2002-08-06 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Dream Drugstore</title>
+        <link>/book/dream-drugstore</link>
+        <author>J. Allan Hobson</author>
+        <pubDate>2002-09-08 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Shattered Self</title>
+        <link>/book/shattered-self</link>
+        <author>Pierre Baldi</author>
+        <pubDate>2002-09-08 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Rethinking Homeostasis</title>
+        <link>/book/rethinking-homeostasis</link>
+        <author>Jay Schulkin</author>
+        <pubDate>2003-01-30 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Toward a Cognitive Semantics</title>
+        <link>/book/toward-cognitive-semantics-0</link>
+        <author>Leonard Talmy</author>
+        <pubDate>2003-02-28 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Toward a Cognitive Semantics</title>
+        <link>/book/toward-cognitive-semantics</link>
+        <author>Leonard Talmy</author>
+        <pubDate>2003-02-28 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Making Space</title>
+        <link>/book/making-space</link>
+        <author>Nora S. Newcombe, Janellen Huttenlocher</author>
+        <pubDate>2003-02-28 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>When Self-Consciousness Breaks</title>
+        <link>/book/when-self-consciousness-breaks</link>
+        <author>G. Lynn Stephens, George Graham</author>
+        <pubDate>2003-02-28 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Making Space</title>
+        <link>/book/making-space</link>
+        <author>Nora S. Newcombe, Janellen Huttenlocher</author>
+        <pubDate>2003-02-28 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>When Self-Consciousness Breaks</title>
+        <link>/book/when-self-consciousness-breaks</link>
+        <author>G. Lynn Stephens, George Graham</author>
+        <pubDate>2003-02-28 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Rationality in Action</title>
+        <link>/book/rationality-action</link>
+        <author>Francois Recanati, John R. Searle</author>
+        <pubDate>2003-02-28 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Knowledge, Possibility, and Consciousness</title>
+        <link>/book/knowledge-possibility-and-consciousness</link>
+        <author>John Perry</author>
+        <pubDate>2003-02-28 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Rationality in Action</title>
+        <link>/book/rationality-action</link>
+        <author>Francois Recanati, John R. Searle</author>
+        <pubDate>2003-02-28 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Algebraic Mind</title>
+        <link>/book/algebraic-mind</link>
+        <author>Gary F. Marcus</author>
+        <pubDate>2003-02-28 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Norms of Nature</title>
+        <link>/book/norms-of-nature</link>
+        <author>Paul Sheldon Davies</author>
+        <pubDate>2003-02-28 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Touch</title>
+        <link>/book/touch</link>
+        <author>Tiffany Field</author>
+        <pubDate>2003-03-31 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Computational Developmental Psychology</title>
+        <link>/book/computational-developmental-psychology</link>
+        <author>Thomas R. Shultz</author>
+        <pubDate>2003-04-30 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Illusion of Conscious Will</title>
+        <link>/book/illusion-of-conscious-will</link>
+        <author>Daniel M. Wegner</author>
+        <pubDate>2003-08-31 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Minding Minds</title>
+        <link>/book/minding-minds</link>
+        <author>Radu J. Bogdan</author>
+        <pubDate>2003-08-31 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The High Price of Materialism</title>
+        <link>/book/high-price-of-materialism</link>
+        <author>Tim Kasser</author>
+        <pubDate>2003-09-30 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Big Book of Concepts</title>
+        <link>/book/big-book-of-concepts</link>
+        <author>Gregory Murphy</author>
+        <pubDate>2004-02-29 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Emotional Intelligence</title>
+        <link>/book/emotional-intelligence</link>
+        <author>Gerald Matthews, Moshe Zeidner, Richard D. Roberts</author>
+        <pubDate>2004-02-29 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Virtual Music</title>
+        <link>/book/virtual-music</link>
+        <author>David Cope</author>
+        <pubDate>2004-02-29 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Emotional Intelligence</title>
+        <link>/book/emotional-intelligence</link>
+        <author>Gerald Matthews, Moshe Zeidner, Richard D. Roberts</author>
+        <pubDate>2004-02-29 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Emotional Intelligence</title>
+        <link>/book/emotional-intelligence</link>
+        <author>Gerald Matthews, Moshe Zeidner, Richard D. Roberts</author>
+        <pubDate>2004-02-29 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Language Acquisition</title>
+        <link>/book/language-acquisition</link>
+        <author>Maria Teresa Guasti</author>
+        <pubDate>2004-02-29 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Advice for a Young Investigator</title>
+        <link>/book/advice-young-investigator</link>
+        <author>Santiago Ramón y Cajal</author>
+        <pubDate>2004-03-31 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Furnishing the Mind</title>
+        <link>/book/furnishing-mind</link>
+        <author>Jesse J. Prinz</author>
+        <pubDate>2004-08-31 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Designing Sociable Robots</title>
+        <link>/book/designing-sociable-robots</link>
+        <author>Cynthia Breazeal</author>
+        <pubDate>2004-08-31 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Where the Action Is</title>
+        <link>/book/where-action</link>
+        <author>Paul Dourish</author>
+        <pubDate>2004-08-31 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Being No One</title>
+        <link>/book/being-no-one</link>
+        <author>Thomas Metzinger</author>
+        <pubDate>2004-08-31 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Terms and Truth</title>
+        <link>/book/terms-and-truth</link>
+        <author>Alan Berger</author>
+        <pubDate>2005-02-28 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Mind</title>
+        <link>/book/mind</link>
+        <author>Paul Thagard</author>
+        <pubDate>2005-03-31 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>An Introduction to the Event-Related Potential Technique</title>
+        <link>/book/introduction-to-event-related-potential-technique</link>
+        <author>Steven J. Luck</author>
+        <pubDate>2005-07-31 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Organisms and Artifacts</title>
+        <link>/book/organisms-and-artifacts</link>
+        <author>Tim Lewens</author>
+        <pubDate>2005-08-31 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Theoretical Neuroscience</title>
+        <link>/book/theoretical-neuroscience</link>
+        <author>Peter Dayan, Laurence F. Abbott</author>
+        <pubDate>2005-08-31 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Theoretical Neuroscience</title>
+        <link>/book/theoretical-neuroscience</link>
+        <author>Peter Dayan, Laurence F. Abbott</author>
+        <pubDate>2005-08-31 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Transcranial Magnetic Stimulation</title>
+        <link>/book/transcranial-magnetic-stimulation</link>
+        <author>Vincent Walsh, Alvaro Pascual-Leone</author>
+        <pubDate>2005-08-31 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Transcranial Magnetic Stimulation</title>
+        <link>/book/transcranial-magnetic-stimulation</link>
+        <author>Vincent Walsh, Alvaro Pascual-Leone</author>
+        <pubDate>2005-08-31 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Real Natures and Familiar Objects</title>
+        <link>/book/real-natures-and-familiar-objects</link>
+        <author>Crawford L. Elder</author>
+        <pubDate>2005-08-31 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Exploring the Thalamus and Its Role in Cortical Function</title>
+        <link>/book/exploring-thalamus-and-its-role-cortical-function</link>
+        <author>S. Murray Sherman, Rainer W. Guillery</author>
+        <pubDate>2005-11-30 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Exploring the Thalamus and Its Role in Cortical Function</title>
+        <link>/book/exploring-thalamus-and-its-role-cortical-function</link>
+        <author>S. Murray Sherman, Rainer W. Guillery</author>
+        <pubDate>2005-11-30 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Primacy of the Subjective</title>
+        <link>/book/primacy-of-subjective</link>
+        <author>Nicholas Georgalis</author>
+        <pubDate>2005-11-30 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>What Is Thought?</title>
+        <link>/book/what-thought</link>
+        <author>Eric B. Baum</author>
+        <pubDate>2006-02-28 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Seeing and Visualizing</title>
+        <link>/book/seeing-and-visualizing</link>
+        <author>Zenon W. Pylyshyn</author>
+        <pubDate>2006-02-28 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Prenatal Testosterone in Mind</title>
+        <link>/book/prenatal-testosterone-mind</link>
+        <author>Simon Baron-Cohen, Svetlana Lutchmaya, Rebecca Knickmeyer</author>
+        <pubDate>2006-02-28 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Prenatal Testosterone in Mind</title>
+        <link>/book/prenatal-testosterone-mind</link>
+        <author>Simon Baron-Cohen, Svetlana Lutchmaya, Rebecca Knickmeyer</author>
+        <pubDate>2006-02-28 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Prenatal Testosterone in Mind</title>
+        <link>/book/prenatal-testosterone-mind</link>
+        <author>Simon Baron-Cohen, Svetlana Lutchmaya, Rebecca Knickmeyer</author>
+        <pubDate>2006-02-28 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Belief’s Own Ethics</title>
+        <link>/book/belief%E2%80%99s-own-ethics</link>
+        <author>Jonathan E. Adler</author>
+        <pubDate>2006-02-28 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Shape</title>
+        <link>/book/shape</link>
+        <author>George Stiny</author>
+        <pubDate>2006-04-02 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Sweet Anticipation</title>
+        <link>/book/sweet-anticipation</link>
+        <author>David Huron</author>
+        <pubDate>2006-04-30 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Complementary Nature</title>
+        <link>/book/complementary-nature</link>
+        <author>J. A. Scott Kelso, David A. Engstrom</author>
+        <pubDate>2006-05-18 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Complementary Nature</title>
+        <link>/book/complementary-nature</link>
+        <author>J. A. Scott Kelso, David A. Engstrom</author>
+        <pubDate>2006-05-18 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>From Molecule to Metaphor</title>
+        <link>/book/molecule-to-metaphor</link>
+        <author>Jerome Feldman</author>
+        <pubDate>2006-06-01 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Psychiatry in the Scientific Image</title>
+        <link>/book/psychiatry-scientific-image</link>
+        <author>Dominic Murphy</author>
+        <pubDate>2006-07-06 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Working Minds</title>
+        <link>/book/working-minds</link>
+        <author>Beth Crandall, Gary Klein, Robert R. Hoffman</author>
+        <pubDate>2006-07-06 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Working Minds</title>
+        <link>/book/working-minds</link>
+        <author>Beth Crandall, Gary Klein, Robert R. Hoffman</author>
+        <pubDate>2006-07-06 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Working Minds</title>
+        <link>/book/working-minds</link>
+        <author>Beth Crandall, Gary Klein, Robert R. Hoffman</author>
+        <pubDate>2006-07-06 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Hot Thought</title>
+        <link>/book/hot-thought</link>
+        <author>Paul Thagard</author>
+        <pubDate>2006-08-31 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Brain Fiction</title>
+        <link>/book/brain-fiction</link>
+        <author>William Hirstein</author>
+        <pubDate>2006-09-30 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Language Development and Learning to Read</title>
+        <link>/book/language-development-and-learning-to-read</link>
+        <author>Diane McGuinness</author>
+        <pubDate>2006-10-31 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Varieties of Meaning</title>
+        <link>/book/varieties-of-meaning</link>
+        <author>Ruth Garrett Millikan</author>
+        <pubDate>2007-01-31 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Dynamical Systems in Neuroscience</title>
+        <link>/book/dynamical-systems-neuroscience</link>
+        <author>Eugene M. Izhikevich</author>
+        <pubDate>2007-02-27 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>How the Mind Explains Behavior</title>
+        <link>/book/how-mind-explains-behavior</link>
+        <author>Bertram F. Malle</author>
+        <pubDate>2007-02-27 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Music and Probability</title>
+        <link>/book/music-and-probability</link>
+        <author>David Temperley</author>
+        <pubDate>2007-03-11 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Neither Brain nor Ghost</title>
+        <link>/book/neither-brain-nor-ghost</link>
+        <author>W. Teed Rockwell</author>
+        <pubDate>2007-03-29 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Feeling Pain and Being in Pain</title>
+        <link>/book/feeling-pain-and-being-pain</link>
+        <author>Nikola Grahek</author>
+        <pubDate>2007-04-29 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>How the Body Shapes the Way We Think</title>
+        <link>/book/how-body-shapes-way-we-think</link>
+        <author>Rolf Pfeifer, Josh Bongard</author>
+        <pubDate>2007-05-08 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>How the Body Shapes the Way We Think</title>
+        <link>/book/how-body-shapes-way-we-think</link>
+        <author>Rolf Pfeifer, Josh Bongard</author>
+        <pubDate>2007-05-08 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Rational Imagination</title>
+        <link>/book/rational-imagination</link>
+        <author>Ruth M J. Byrne</author>
+        <pubDate>2007-05-13 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Economic Theory and Cognitive Science</title>
+        <link>/book/economic-theory-and-cognitive-science</link>
+        <author>Don Ross</author>
+        <pubDate>2007-05-13 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Panpsychism in the West</title>
+        <link>/book/panpsychism-west</link>
+        <author>David Skrbina</author>
+        <pubDate>2007-05-16 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Reconstructing the Cognitive World</title>
+        <link>/book/reconstructing-cognitive-world</link>
+        <author>Michael Wheeler</author>
+        <pubDate>2007-05-16 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>A History of Modern Experimental Psychology</title>
+        <link>/book/history-of-modern-experimental-psychology</link>
+        <author>George Mandler</author>
+        <pubDate>2007-06-07 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Consciousness, Function, and Representation</title>
+        <link>/book/consciousness-function-and-representation</link>
+        <author>Ned Block</author>
+        <pubDate>2007-07-22 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Language, Consciousness, Culture</title>
+        <link>/book/language-consciousness-culture</link>
+        <author>Ray S. Jackendoff</author>
+        <pubDate>2007-08-09 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Reliable Reasoning</title>
+        <link>/book/reliable-reasoning</link>
+        <author>Gilbert Harman, Sanjeev Kulkarni</author>
+        <pubDate>2007-08-14 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Reliable Reasoning</title>
+        <link>/book/reliable-reasoning</link>
+        <author>Gilbert Harman, Sanjeev Kulkarni</author>
+        <pubDate>2007-08-14 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Embodied Music Cognition and Mediation Technology</title>
+        <link>/book/embodied-music-cognition-and-mediation-technology</link>
+        <author>Marc Leman</author>
+        <pubDate>2007-09-17 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Evolutionary Psychology as Maladapted Psychology</title>
+        <link>/book/evolutionary-psychology-maladapted-psychology</link>
+        <author>Robert C. Richardson</author>
+        <pubDate>2007-10-30 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Time and Realism</title>
+        <link>/book/time-and-realism</link>
+        <author>Yuval Dolev</author>
+        <pubDate>2007-10-30 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Really Hard Problem</title>
+        <link>/book/really-hard-problem</link>
+        <author>Owen Flanagan</author>
+        <pubDate>2007-10-31 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Gödel, Putnam, and Functionalism</title>
+        <link>/book/g%C3%B6del-putnam-and-functionalism</link>
+        <author>Jeff Buechner</author>
+        <pubDate>2007-11-14 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Things and Places</title>
+        <link>/book/things-and-places</link>
+        <author>Zenon W. Pylyshyn</author>
+        <pubDate>2007-11-18 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Hidden Sense</title>
+        <link>/book/hidden-sense</link>
+        <author>Cretien van Campen</author>
+        <pubDate>2007-11-25 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Describing Inner Experience?</title>
+        <link>/book/describing-inner-experience</link>
+        <author>Russell Hurlburt, Eric Schwitzgebel</author>
+        <pubDate>2007-11-29 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Describing Inner Experience?</title>
+        <link>/book/describing-inner-experience</link>
+        <author>Russell Hurlburt, Eric Schwitzgebel</author>
+        <pubDate>2007-11-29 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Musical Representation</title>
+        <link>/book/musical-representation</link>
+        <author>Charles O. Nussbaum</author>
+        <pubDate>2007-12-30 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Folk Psychological Narratives</title>
+        <link>/book/folk-psychological-narratives</link>
+        <author>Daniel D. Hutto</author>
+        <pubDate>2008-01-30 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Native Mind and the Cultural Construction of Nature</title>
+        <link>/book/native-mind-and-cultural-construction-of-nature</link>
+        <author>Scott Atran, Douglas L. Medin</author>
+        <pubDate>2008-03-23 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Native Mind and the Cultural Construction of Nature</title>
+        <link>/book/native-mind-and-cultural-construction-of-nature</link>
+        <author>Scott Atran, Douglas L. Medin</author>
+        <pubDate>2008-03-23 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Midbrain Mutiny</title>
+        <link>/book/midbrain-mutiny</link>
+        <author>Don Ross, Carla Sharp, Rudy E. Vuchinich, David Spurrett</author>
+        <pubDate>2008-04-02 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Midbrain Mutiny</title>
+        <link>/book/midbrain-mutiny</link>
+        <author>Don Ross, Carla Sharp, Rudy E. Vuchinich, David Spurrett</author>
+        <pubDate>2008-04-02 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Midbrain Mutiny</title>
+        <link>/book/midbrain-mutiny</link>
+        <author>Don Ross, Carla Sharp, Rudy E. Vuchinich, David Spurrett</author>
+        <pubDate>2008-04-02 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Midbrain Mutiny</title>
+        <link>/book/midbrain-mutiny</link>
+        <author>Don Ross, Carla Sharp, Rudy E. Vuchinich, David Spurrett</author>
+        <pubDate>2008-04-02 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Scenario Visualization</title>
+        <link>/book/scenario-visualization</link>
+        <author>Robert Arp</author>
+        <pubDate>2008-04-09 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>3D Shape</title>
+        <link>/book/3d-shape</link>
+        <author>Zygmunt Pizlo</author>
+        <pubDate>2008-04-23 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Boundaries of Babel</title>
+        <link>/book/boundaries-of-babel</link>
+        <author>Andrea Moro</author>
+        <pubDate>2008-07-24 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Chess Metaphors</title>
+        <link>/book/chess-metaphors</link>
+        <author>Diego Rasskin-Gutman</author>
+        <pubDate>2009-08-31 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Anatomy of Bias</title>
+        <link>/book/anatomy-of-bias</link>
+        <author>Jan Lauwereyns</author>
+        <pubDate>2010-02-25 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Cognitive Pragmatics</title>
+        <link>/book/cognitive-pragmatics</link>
+        <author>Bruno G. Bara</author>
+        <pubDate>2010-08-12 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Pragmatic Neuroethics</title>
+        <link>/book/pragmatic-neuroethics</link>
+        <author>Eric Racine</author>
+        <pubDate>2010-08-30 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Self-Organizing Social Mind</title>
+        <link>/book/self-organizing-social-mind</link>
+        <author>John Bolender</author>
+        <pubDate>2010-09-29 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Our Own Minds</title>
+        <link>/book/our-own-minds</link>
+        <author>Radu J. Bogdan</author>
+        <pubDate>2010-10-28 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The New Science of the Mind</title>
+        <link>/book/new-science-of-mind</link>
+        <author>Mark Rowlands</author>
+        <pubDate>2010-10-28 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Helmholtz</title>
+        <link>/book/helmholtz</link>
+        <author>Michel Meulders</author>
+        <pubDate>2010-10-28 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Agreement and Head Movement</title>
+        <link>/book/agreement-and-head-movement</link>
+        <author>Ian Roberts</author>
+        <pubDate>2010-10-28 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Arguments as Relations</title>
+        <link>/book/arguments-relations</link>
+        <author>John Bowers</author>
+        <pubDate>2010-10-28 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Networks of the Brain</title>
+        <link>/book/networks-of-brain</link>
+        <author>Olaf Sporns</author>
+        <pubDate>2010-11-14 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Auditory Neuroscience</title>
+        <link>/book/auditory-neuroscience</link>
+        <author>Jan Schnupp, Israel Nelken, Andrew King</author>
+        <pubDate>2010-12-30 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Auditory Neuroscience</title>
+        <link>/book/auditory-neuroscience</link>
+        <author>Jan Schnupp, Israel Nelken, Andrew King</author>
+        <pubDate>2010-12-30 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Auditory Neuroscience</title>
+        <link>/book/auditory-neuroscience</link>
+        <author>Jan Schnupp, Israel Nelken, Andrew King</author>
+        <pubDate>2010-12-30 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Wittgenstein in Exile</title>
+        <link>/book/wittgenstein-exile</link>
+        <author>James C. Klagge</author>
+        <pubDate>2011-01-31 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Perplexities of Consciousness</title>
+        <link>/book/perplexities-of-consciousness</link>
+        <author>Eric Schwitzgebel</author>
+        <pubDate>2011-03-17 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Technological Nature</title>
+        <link>/book/technological-nature</link>
+        <author>Peter H. Kahn</author>
+        <pubDate>2011-03-30 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Inside Jokes</title>
+        <link>/book/inside-jokes</link>
+        <author>Matthew M. Hurley, Daniel C. Dennett, Reginald B. Adams</author>
+        <pubDate>2011-03-31 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Inside Jokes</title>
+        <link>/book/inside-jokes</link>
+        <author>Matthew M. Hurley, Daniel C. Dennett, Reginald B. Adams</author>
+        <pubDate>2011-03-31 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Inside Jokes</title>
+        <link>/book/inside-jokes</link>
+        <author>Matthew M. Hurley, Daniel C. Dennett, Reginald B. Adams</author>
+        <pubDate>2011-03-31 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Dream Life</title>
+        <link>/book/dream-life</link>
+        <author>J. Allan Hobson</author>
+        <pubDate>2011-03-31 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Statistical Analysis of fMRI Data</title>
+        <link>/book/statistical-analysis-of-fmri-data</link>
+        <author>F. Gregory Ashby</author>
+        <pubDate>2011-04-14 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Laws, Mind, and Free Will</title>
+        <link>/book/laws-mind-and-free-will</link>
+        <author>Steven Horst</author>
+        <pubDate>2011-04-20 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Blind Vision</title>
+        <link>/book/blind-vision</link>
+        <author>Zaira Cattaneo, Tomaso Vecchi</author>
+        <pubDate>2011-04-28 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Blind Vision</title>
+        <link>/book/blind-vision</link>
+        <author>Zaira Cattaneo, Tomaso Vecchi</author>
+        <pubDate>2011-04-28 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Handling Digital Brains</title>
+        <link>/book/handling-digital-brains</link>
+        <author>Morana Alač</author>
+        <pubDate>2011-05-26 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>A Computational Perspective on Visual Attention</title>
+        <link>/book/computational-perspective-visual-attention</link>
+        <author>John K. Tsotsos</author>
+        <pubDate>2011-05-30 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Language of Thought</title>
+        <link>/book/language-of-thought</link>
+        <author>Susan Schneider</author>
+        <pubDate>2011-06-29 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Yuck!</title>
+        <link>/book/yuck</link>
+        <author>Daniel Kelly</author>
+        <pubDate>2011-07-28 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Re-Emergence</title>
+        <link>/book/re-emergence</link>
+        <author>Gerald Vision</author>
+        <pubDate>2011-08-31 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Mindreading Animals</title>
+        <link>/book/mindreading-animals</link>
+        <author>Robert W. Lurz</author>
+        <pubDate>2011-09-05 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Wonder of Consciousness</title>
+        <link>/book/wonder-of-consciousness</link>
+        <author>Harold Langsam</author>
+        <pubDate>2011-09-15 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Like-Minded</title>
+        <link>/book/minded</link>
+        <author>Andrew Sneddon</author>
+        <pubDate>2011-09-22 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Mind and Brain</title>
+        <link>/book/mind-and-brain</link>
+        <author>William R. Uttal</author>
+        <pubDate>2011-10-02 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Bodhisattva&amp;#039;s Brain</title>
+        <link>/book/bodhisattvas-brain</link>
+        <author>Owen Flanagan</author>
+        <pubDate>2011-10-02 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Infectious Behavior</title>
+        <link>/book/infectious-behavior</link>
+        <author>Paul H. Patterson</author>
+        <pubDate>2011-10-13 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Cognitive Neuropsychiatry of Parkinson&amp;#039;s Disease</title>
+        <link>/book/cognitive-neuropsychiatry-of-parkinsons-disease</link>
+        <author>Patrick McNamara</author>
+        <pubDate>2011-10-19 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Meditating Selflessly</title>
+        <link>/book/meditating-selflessly</link>
+        <author>James H. Austin</author>
+        <pubDate>2011-10-30 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Ingenious Genes</title>
+        <link>/book/ingenious-genes</link>
+        <author>Roger Sansom</author>
+        <pubDate>2011-11-29 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Against Moral Responsibility</title>
+        <link>/book/against-moral-responsibility</link>
+        <author>Bruce N. Waller</author>
+        <pubDate>2011-11-29 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Consciousness Paradox</title>
+        <link>/book/consciousness-paradox</link>
+        <author>Rocco J. Gennaro</author>
+        <pubDate>2011-12-18 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>How We Remember</title>
+        <link>/book/how-we-remember</link>
+        <author>Michael E. Hasselmo</author>
+        <pubDate>2011-12-19 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Bilingual Competence and Bilingual Proficiency in Child Development</title>
+        <link>/book/bilingual-competence-and-bilingual-proficiency-child-development</link>
+        <author>Norbert Francis</author>
+        <pubDate>2011-12-29 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Neural Control Engineering</title>
+        <link>/book/neural-control-engineering</link>
+        <author>Steven J. Schiff</author>
+        <pubDate>2011-12-29 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Democracy Despite Itself</title>
+        <link>/book/democracy-despite-itself</link>
+        <author>Danny Oppenheimer, Mike Edwards</author>
+        <pubDate>2012-02-14 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Democracy Despite Itself</title>
+        <link>/book/democracy-despite-itself</link>
+        <author>Danny Oppenheimer, Mike Edwards</author>
+        <pubDate>2012-02-14 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Evolved Apprentice</title>
+        <link>/book/evolved-apprentice</link>
+        <author>Kim Sterelny</author>
+        <pubDate>2012-02-14 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Neural Architecture of Grammar</title>
+        <link>/book/neural-architecture-of-grammar</link>
+        <author>Stephen E. Nadeau</author>
+        <pubDate>2012-02-28 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Nurturing the Older Brain and Mind</title>
+        <link>/book/nurturing-older-brain-and-mind</link>
+        <author>Pamela M. Greenwood, Raja Parasuraman</author>
+        <pubDate>2012-03-14 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Biological Learning and Control</title>
+        <link>/book/biological-learning-and-control</link>
+        <author>Reza Shadmehr, Sandro Mussa-Ivaldi</author>
+        <pubDate>2012-03-14 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Biological Learning and Control</title>
+        <link>/book/biological-learning-and-control</link>
+        <author>Reza Shadmehr, Sandro Mussa-Ivaldi</author>
+        <pubDate>2012-03-14 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Nurturing the Older Brain and Mind</title>
+        <link>/book/nurturing-older-brain-and-mind</link>
+        <author>Pamela M. Greenwood, Raja Parasuraman</author>
+        <pubDate>2012-03-14 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Plato&amp;#039;s Camera</title>
+        <link>/book/platos-camera</link>
+        <author>Paul M. Churchland</author>
+        <pubDate>2012-03-25 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Consciousness</title>
+        <link>/book/consciousness</link>
+        <author>Christof Koch</author>
+        <pubDate>2012-04-15 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Individual and Collective Memory Consolidation</title>
+        <link>/book/individual-and-collective-memory-consolidation</link>
+        <author>Thomas J. Anastasio, Kristen Ann Ehrenberger, Patrick Watson, Wenyi Zhang</author>
+        <pubDate>2012-04-15 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Individual and Collective Memory Consolidation</title>
+        <link>/book/individual-and-collective-memory-consolidation</link>
+        <author>Thomas J. Anastasio, Kristen Ann Ehrenberger, Patrick Watson, Wenyi Zhang</author>
+        <pubDate>2012-04-15 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Individual and Collective Memory Consolidation</title>
+        <link>/book/individual-and-collective-memory-consolidation</link>
+        <author>Thomas J. Anastasio, Kristen Ann Ehrenberger, Patrick Watson, Wenyi Zhang</author>
+        <pubDate>2012-04-15 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Individual and Collective Memory Consolidation</title>
+        <link>/book/individual-and-collective-memory-consolidation</link>
+        <author>Thomas J. Anastasio, Kristen Ann Ehrenberger, Patrick Watson, Wenyi Zhang</author>
+        <pubDate>2012-04-15 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Open Minds</title>
+        <link>/book/open-minds</link>
+        <author>Wolfgang Prinz</author>
+        <pubDate>2012-04-15 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Soar Cognitive Architecture</title>
+        <link>/book/soar-cognitive-architecture</link>
+        <author>John E. Laird</author>
+        <pubDate>2012-05-24 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Cognitive Science of Science</title>
+        <link>/book/cognitive-science-of-science</link>
+        <author>Paul Thagard</author>
+        <pubDate>2012-05-30 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>On Perceived Motion and Figural Organization</title>
+        <link>/book/perceived-motion-and-figural-organization</link>
+        <author>Max Wertheimer</author>
+        <pubDate>2012-08-24 12:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Signals and Boundaries</title>
+        <link>/book/signals-and-boundaries</link>
+        <author>John H. Holland</author>
+        <pubDate>2012-08-30 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Do Apes Read Minds?</title>
+        <link>/book/do-apes-read-minds</link>
+        <author>Kristin Andrews</author>
+        <pubDate>2012-08-30 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Foundations of Cognitive Archaeology</title>
+        <link>/book/foundations-of-cognitive-archaeology</link>
+        <author>Marc A. Abramiuk</author>
+        <pubDate>2012-09-02 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Thought and Language</title>
+        <link>/book/thought-and-language</link>
+        <author>Lev S. Vygotsky</author>
+        <pubDate>2012-09-03 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Machine Question</title>
+        <link>/book/machine-question</link>
+        <author>David J. Gunkel</author>
+        <pubDate>2012-09-12 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Inner Experience and Neuroscience</title>
+        <link>/book/inner-experience-and-neuroscience</link>
+        <author>Donald D. Price, James J. Barrell</author>
+        <pubDate>2012-09-14 12:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Inner Experience and Neuroscience</title>
+        <link>/book/inner-experience-and-neuroscience</link>
+        <author>Donald D. Price, James J. Barrell</author>
+        <pubDate>2012-09-14 12:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Language, Thought, and Reality</title>
+        <link>/book/language-thought-and-reality</link>
+        <author>Benjamin Lee Whorf</author>
+        <pubDate>2012-09-19 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Understanding Pain</title>
+        <link>/book/understanding-pain</link>
+        <author>Fernando Cervero</author>
+        <pubDate>2012-09-20 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Brain and the Gaze</title>
+        <link>/book/brain-and-gaze</link>
+        <author>Jan Lauwereyns</author>
+        <pubDate>2012-09-27 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Native Listening</title>
+        <link>/book/native-listening</link>
+        <author>Anne Cutler</author>
+        <pubDate>2012-09-28 12:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Reliability in Cognitive Neuroscience</title>
+        <link>/book/reliability-cognitive-neuroscience</link>
+        <author>William R. Uttal</author>
+        <pubDate>2012-09-28 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Discovering the Human Connectome</title>
+        <link>/book/discovering-human-connectome</link>
+        <author>Olaf Sporns</author>
+        <pubDate>2012-10-11 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Borges and Memory</title>
+        <link>/book/borges-and-memory</link>
+        <author>Rodrigo Quian Quiroga</author>
+        <pubDate>2012-10-30 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Indefinite Objects</title>
+        <link>/book/indefinite-objects</link>
+        <author>Luis López</author>
+        <pubDate>2012-10-30 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Sensorimotor Cognition and Natural Language Syntax</title>
+        <link>/book/sensorimotor-cognition-and-natural-language-syntax</link>
+        <author>Alistair Knott</author>
+        <pubDate>2012-11-29 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Radicalizing Enactivism</title>
+        <link>/book/radicalizing-enactivism</link>
+        <author>Daniel D. Hutto, Erik Myin</author>
+        <pubDate>2013-01-24 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Radicalizing Enactivism</title>
+        <link>/book/radicalizing-enactivism</link>
+        <author>Daniel D. Hutto, Erik Myin</author>
+        <pubDate>2013-01-24 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Word and Object</title>
+        <link>/book/word-and-object</link>
+        <author>Willard Van Orman Quine</author>
+        <pubDate>2013-02-21 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Space to Reason</title>
+        <link>/book/space-to-reason</link>
+        <author>Markus Knauff</author>
+        <pubDate>2013-03-14 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Neural Basis of Free Will</title>
+        <link>/book/neural-basis-of-free-will</link>
+        <author>Peter Ulric Tse</author>
+        <pubDate>2013-03-21 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Mindvaults</title>
+        <link>/book/mindvaults</link>
+        <author>Radu J. Bogdan</author>
+        <pubDate>2013-04-18 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Explaining the Computational Mind</title>
+        <link>/book/explaining-computational-mind</link>
+        <author>Marcin Milkowski</author>
+        <pubDate>2013-04-25 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Intervention in the Brain</title>
+        <link>/book/intervention-brain</link>
+        <author>Robert H. Blank</author>
+        <pubDate>2013-05-30 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Mindshaping</title>
+        <link>/book/mindshaping</link>
+        <author>Tadeusz Wiesław Zawidzki</author>
+        <pubDate>2013-06-13 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Feeling Beauty</title>
+        <link>/book/feeling-beauty</link>
+        <author>G. Gabrielle Starr</author>
+        <pubDate>2013-08-22 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Learnability and Cognition</title>
+        <link>/book/learnability-and-cognition</link>
+        <author>Steven Pinker</author>
+        <pubDate>2013-08-30 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Storytelling and the Sciences of Mind</title>
+        <link>/book/storytelling-and-sciences-of-mind</link>
+        <author>David Herman</author>
+        <pubDate>2013-09-05 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Visual Psychophysics</title>
+        <link>/book/visual-psychophysics</link>
+        <author>Zhong-Lin Lu, Barbara Dosher</author>
+        <pubDate>2013-10-17 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Visual Psychophysics</title>
+        <link>/book/visual-psychophysics</link>
+        <author>Zhong-Lin Lu, Barbara Dosher</author>
+        <pubDate>2013-10-17 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Emil du Bois-Reymond</title>
+        <link>/book/emil-du-bois-reymond</link>
+        <author>Gabriel Finkelstein</author>
+        <pubDate>2013-11-21 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Feeling Body</title>
+        <link>/book/feeling-body</link>
+        <author>Giovanna Colombetti</author>
+        <pubDate>2014-01-30 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Truly Human Enhancement</title>
+        <link>/book/truly-human-enhancement</link>
+        <author>Nicholas Agar</author>
+        <pubDate>2014-01-30 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The First Sense</title>
+        <link>/book/first-sense</link>
+        <author>Matthew Fulkerson</author>
+        <pubDate>2014-01-30 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Finite State Machines in Hardware</title>
+        <link>/book/finite-state-machines-hardware</link>
+        <author>Volnei A. Pedroni</author>
+        <pubDate>2014-01-30 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Who&amp;#039;s Asking?</title>
+        <link>/book/whos-asking</link>
+        <author>Douglas L. Medin, Megan Bang</author>
+        <pubDate>2014-02-02 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Who&amp;#039;s Asking?</title>
+        <link>/book/whos-asking</link>
+        <author>Douglas L. Medin, Megan Bang</author>
+        <pubDate>2014-02-02 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Neuroscience</title>
+        <link>/book/neuroscience</link>
+        <author>Mitchell Glickstein</author>
+        <pubDate>2014-02-27 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Analyzing Neural Time Series Data</title>
+        <link>/book/analyzing-neural-time-series-data</link>
+        <author>Mike X Cohen</author>
+        <pubDate>2014-02-27 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Geometry of Meaning</title>
+        <link>/book/geometry-of-meaning</link>
+        <author>Peter Gärdenfors</author>
+        <pubDate>2014-02-27 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Paradox</title>
+        <link>/book/paradox</link>
+        <author>Margaret Cuonzo</author>
+        <pubDate>2014-03-27 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Free Will</title>
+        <link>/book/free-will</link>
+        <author>Mark Balaguer</author>
+        <pubDate>2014-03-27 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Children with Specific Language Impairment</title>
+        <link>/book/children-specific-language-impairment-0</link>
+        <author>Laurence B. Leonard</author>
+        <pubDate>2014-06-29 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>An Introduction to the Event-Related Potential Technique</title>
+        <link>/book/introduction-to-event-related-potential-technique-0</link>
+        <author>Steven J. Luck</author>
+        <pubDate>2014-07-17 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Computer Games for Learning</title>
+        <link>/book/computer-games-learning</link>
+        <author>Richard E. Mayer</author>
+        <pubDate>2014-08-28 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Zen-Brain Horizons</title>
+        <link>/book/zen-brain-horizons</link>
+        <author>James H. Austin</author>
+        <pubDate>2014-09-25 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Conscious Mind</title>
+        <link>/book/conscious-mind</link>
+        <author>Zoltan Torey</author>
+        <pubDate>2014-09-29 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Unifying the Mind</title>
+        <link>/book/unifying-mind</link>
+        <author>David Danks</author>
+        <pubDate>2014-10-16 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Touch</title>
+        <link>/book/touch-0</link>
+        <author>Tiffany Field</author>
+        <pubDate>2014-11-16 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Voice and v</title>
+        <link>/book/voice-and-v</link>
+        <author>Julie Anne Legate</author>
+        <pubDate>2014-11-27 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Minds without Meanings</title>
+        <link>/book/minds-without-meanings</link>
+        <author>Jerry A. Fodor, Zenon W. Pylyshyn</author>
+        <pubDate>2015-01-01 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Minds without Meanings</title>
+        <link>/book/minds-without-meanings</link>
+        <author>Jerry A. Fodor, Zenon W. Pylyshyn</author>
+        <pubDate>2015-01-01 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Categorizing Cognition</title>
+        <link>/book/categorizing-cognition</link>
+        <author>Graeme S. Halford, William H. Wilson, Glenda Andrews, Steven Phillips</author>
+        <pubDate>2015-01-29 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Categorizing Cognition</title>
+        <link>/book/categorizing-cognition</link>
+        <author>Graeme S. Halford, William H. Wilson, Glenda Andrews, Steven Phillips</author>
+        <pubDate>2015-01-29 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>After Phrenology</title>
+        <link>/book/after-phrenology</link>
+        <author>Michael L. Anderson</author>
+        <pubDate>2015-01-29 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Categorizing Cognition</title>
+        <link>/book/categorizing-cognition</link>
+        <author>Graeme S. Halford, William H. Wilson, Glenda Andrews, Steven Phillips</author>
+        <pubDate>2015-01-29 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Categorizing Cognition</title>
+        <link>/book/categorizing-cognition</link>
+        <author>Graeme S. Halford, William H. Wilson, Glenda Andrews, Steven Phillips</author>
+        <pubDate>2015-01-29 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>The Minimalist Program</title>
+        <link>/book/minimalist-program</link>
+        <author>Noam Chomsky</author>
+        <pubDate>2015-02-05 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Developmental Robotics</title>
+        <link>/book/developmental-robotics</link>
+        <author>Angelo Cangelosi, Matthew Schlesinger</author>
+        <pubDate>2015-02-12 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Developmental Robotics</title>
+        <link>/book/developmental-robotics</link>
+        <author>Angelo Cangelosi, Matthew Schlesinger</author>
+        <pubDate>2015-02-12 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>(Re)labeling</title>
+        <link>/book/relabeling</link>
+        <author>Carlo Cecchetto, Caterina Donati</author>
+        <pubDate>2015-03-02 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>(Re)labeling</title>
+        <link>/book/relabeling</link>
+        <author>Carlo Cecchetto, Caterina Donati</author>
+        <pubDate>2015-03-02 19:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Brain Computation as Hierarchical Abstraction</title>
+        <link>/book/brain-computation-hierarchical-abstraction</link>
+        <author>Dana H. Ballard</author>
+        <pubDate>2015-03-30 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+    <item> <title>Liberalism in Practice</title>
+        <link>/book/liberalism-practice</link>
+        <author>Olivia Newman</author>
+        <pubDate>2015-03-30 20:00</pubDate>
+        <source url="http://cognet-staging2.mit.edu/books-clone-list.xml">Books</source>
+    </item>
+</channel>
+</rss>

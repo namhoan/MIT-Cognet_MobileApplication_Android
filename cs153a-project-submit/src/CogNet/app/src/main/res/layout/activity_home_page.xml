@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".HomePage">
+
+    <TextView
+        android:id="@+id/text_cognet_logo"
+        android:layout_alignParentTop="true"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/cognet_logo"
+        android:textSize="60px"
+        android:textAlignment="center"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:id="@+id/btn_books"
+        android:layout_alignLeft="@+id/text_cognet_logo"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="@string/books"
+        android:layout_below="@+id/text_cognet_logo"
+        android:background="@color/darkblue"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_marginTop="16dp"
+        />
+
+    <Button
+        android:id="@+id/btn_journals"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="@string/journals"
+        android:layout_below="@+id/text_cognet_logo"
+        android:layout_alignRight="@+id/text_cognet_logo"
+        android:background="@color/darkblue"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_marginTop="16dp"
+        />
+
+    <Button
+        android:id="@+id/btn_reference_works"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="@string/ref_works"
+        android:layout_below="@+id/btn_books"
+        android:layout_alignLeft="@+id/btn_books"
+        android:background="@color/darkblue"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_marginTop="16dp" />
+
+    <Button
+        android:id="@+id/btn_view_favorites"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="@string/favorites"
+        android:layout_below="@+id/btn_journals"
+        android:layout_alignRight="@+id/btn_journals"
+        android:background="@color/darkblue"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_marginTop="16dp"
+        />
+
+    <Button
+        android:id="@+id/btn_login"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/login"
+        android:layout_below="@+id/btn_reference_works"
+        android:background="@color/darkblue"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_marginTop="16dp"
+        />
+
+    <TextView
+        android:id="@+id/text_about_us_title"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btn_login"
+        android:text="@string/about_us"
+        android:textSize="50px"
+        android:textAlignment="center"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="32dp" />
+    <TextView
+        android:id="@+id/text_about_us"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/text_about_us_title"
+        android:text="@string/about_us_txt"
+        android:textSize="30px"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp" />
+
+
+
+</RelativeLayout>

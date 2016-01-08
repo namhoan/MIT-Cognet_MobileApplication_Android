@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/dimos/Dropbox/phd/classes/cs153a/project/dim/CogNet/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/dimos/Dropbox/phd/classes/cs153a/project/dim/CogNet/app/build/intermediates/pre-dexed/debug/classes-ff999b9aedb070d02fa6e1ba740e2642fb6b0565.jar" />
+    </item>
+    <item
+        jar="/Users/dimos/Dropbox/phd/classes/cs153a/project/dim/CogNet/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/dimos/Dropbox/phd/classes/cs153a/project/dim/CogNet/app/build/intermediates/pre-dexed/debug/classes-861e6b4c6a457db67ef986bc5eaccebbb56633cf.jar" />
+    </item>
+    <item
+        jar="/Users/dimos/Dropbox/phd/classes/cs153a/project/dim/CogNet/app/libs/httpcore-4.4.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e876a79d561e5c6207b78d347e198c8c4531a5e5">
+        <dex dex="/Users/dimos/Dropbox/phd/classes/cs153a/project/dim/CogNet/app/build/intermediates/pre-dexed/debug/httpcore-4.4.3-8b53f11d55e3b4fc3961b299cad3de33a2df4fc3.jar" />
+    </item>
+    <item
+        jar="/Users/dimos/Dropbox/phd/classes/cs153a/project/dim/CogNet/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/dimos/Dropbox/phd/classes/cs153a/project/dim/CogNet/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-22cdba315a12203d3ce849d93835caca7a669ae9.jar" />
+    </item>
+    <item
+        jar="/Users/dimos/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/dimos/Dropbox/phd/classes/cs153a/project/dim/CogNet/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-8d418e6d4c61fe698a7b9e53598f6671399c5eaa.jar" />
+    </item>
+
+</items>
